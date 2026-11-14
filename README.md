@@ -16,13 +16,31 @@ The bundled library is a fixed snapshot of the supplied 220-page PDF: 217 drawin
 
 ## Build from source
 
-Requires Node.js 22.13+ and Python 3.10+ with the pinned catalog dependency:
+Requires Node.js 22.13+ and Python with the pinned catalog dependency. Run these commands from the repository folder.
+
+### macOS / Linux
+
+Use Python 3.10 or later supported by the pinned PyMuPDF package (CI uses Python 3.12).
 
 ```sh
 npm ci
 python3 -m pip install -r requirements-build.txt
 npm run build
 ```
+
+### Windows (PowerShell)
+
+Install Node.js and Python 3.14, including the Python launcher (`py`). Use a local virtual environment; activation and PowerShell execution-policy changes are not required.
+
+```powershell
+npm ci
+py -3.14 -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements-build.txt
+.\.venv\Scripts\python.exe scripts\catalog.py
+node scripts/build.mjs
+```
+
+These last two commands perform the same catalog-generation and HTML-build steps as `npm run build`, using the virtual environment directly instead of relying on a Windows `python3` alias.
 
 The output is `dist/Standard Drawing Indexer.html` (about 57 MB). Build output and test PDFs are ignored by Git; the original source PDF and generated catalog are versioned. Third-party notices are embedded in the app's **Library & help** dialog and copied into `dist`.
 
@@ -33,6 +51,15 @@ npm test
 npx playwright install chromium
 npm run test:browser
 python3 scripts/verify-export.py
+```
+
+On Windows, use the virtual environment created above for the PDF verification step:
+
+```powershell
+npm test
+npx playwright install chromium
+npm run test:browser
+.\.venv\Scripts\python.exe scripts\verify-export.py
 ```
 
 The browser suite opens the final HTML using `file://` with networking disabled. It exercises selection, groups, ordering, project validation and migration, canceled dialogs, failed writes, and all-sheet export. Its file dialogs are stubbed to automate file writes and failure cases; native dialogs require an additional interactive check. `EDGE_PATH` can select an installed Edge executable for the same suite.
