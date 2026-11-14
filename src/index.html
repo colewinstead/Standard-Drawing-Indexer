@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light">
+<meta name="referrer" content="no-referrer">
+<title>Standard Drawing Indexer</title>
+<!-- STYLE -->
+</head>
+<body>
+<a class="skip-link" href="#catalog-list">Skip to drawing catalog</a>
+<div id="app">
+<header class="app-header">
+  <div class="identity"><svg width="30" height="30" viewBox="0 0 32 32" fill="none" aria-hidden="true"><rect x="4" y="3" width="20" height="25" rx="2" stroke="currentColor" stroke-width="1.6"/><path d="M9 9h10M9 13h10M9 18l3-3 3 6 3-4 3 4M27 8v21H9" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg><div><h1>Standard Drawing Indexer</h1><p>MDOT · Roadway Design</p></div></div>
+  <nav class="file-actions" aria-label="Project files"><button id="new-project">New</button><button id="open-project">Open project</button><span class="action-divider"></span><button id="save-project">Save</button><button id="save-as">Save as…</button></nav>
+</header>
+<div class="project-bar"><label for="project-name">Project</label><input id="project-name" value="Untitled project" maxlength="150" autocomplete="off" spellcheck="false"><span id="save-state" class="save-state">Not saved</span><span class="project-spacer"></span><span class="library-note">Bundled library · 217 sheets</span></div>
+<div id="support-warning" class="notice" hidden>System file dialogs require desktop Chrome or Edge. Open this HTML in one of those browsers to save projects or export PDFs.</div>
+<div id="message" role="status" aria-live="polite" hidden></div>
+<main id="workspace">
+<section id="catalog-panel" class="panel catalog-panel" aria-labelledby="catalog-heading">
+  <div class="panel-title"><h2 id="catalog-heading">Drawing library</h2><span id="catalog-count" class="count">217</span></div>
+  <div class="catalog-controls"><label class="search-field"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4 4"/></svg><input id="search" type="search" aria-label="Search drawings" placeholder="Search number or title" autocomplete="off"></label><label class="category-label" for="category">Category</label><select id="category"><option value="">All categories</option></select></div>
+  <div class="list-toolbar"><span id="result-count">217 drawings</span><button id="select-filtered" class="text-button">Select all shown</button></div>
+  <div id="catalog-list" class="catalog-list" tabindex="-1" aria-label="Drawings"></div>
+</section>
+<div id="catalog-resizer" class="resizer" role="separator" aria-label="Resize drawing library" aria-orientation="vertical" aria-valuemin="270" aria-valuemax="560" aria-valuenow="350" tabindex="0"></div>
+<section class="panel preview-panel" aria-labelledby="preview-heading">
+  <div class="preview-heading"><div><h2 id="preview-heading">Drawing preview</h2><p id="preview-category">Select a drawing to inspect it</p></div><span id="preview-sheet" class="sheet-label"></span></div>
+  <div class="preview-toolbar"><div class="zoom-controls"><button id="zoom-out" aria-label="Zoom out">−</button><output id="zoom-label" aria-label="Zoom level">Fit</output><button id="zoom-in" aria-label="Zoom in">+</button><button id="fit" class="fit-button">Fit sheet</button></div><button id="add-preview" disabled>Add to package</button></div>
+  <div id="preview-viewport" class="preview-viewport" tabindex="0" aria-label="Drawing preview, scroll to pan"><p id="preview-loading" role="status">Loading the bundled drawing library…</p><canvas id="preview-canvas" hidden aria-label="Drawing sheet preview"></canvas></div>
+  <div id="preview-details" class="preview-details"><p id="preview-title"></p><div id="group-info" hidden><span id="group-label"></span><button id="select-group" class="text-button">Select complete set</button></div><span class="original-note">Original sheet · no added markings</span></div>
+</section>
+<div id="package-resizer" class="resizer" role="separator" aria-label="Resize selected package" aria-orientation="vertical" aria-valuemin="260" aria-valuemax="520" aria-valuenow="310" tabindex="0"></div>
+<section id="package-panel" class="panel package-panel" aria-labelledby="package-heading">
+  <div class="panel-title"><h2 id="package-heading">Selected package</h2><span id="package-count" class="count">0</span></div>
+  <div class="package-intro"><p>Sheets export in the order below.</p><div class="package-tools"><button id="source-order" class="text-button" disabled>Restore source order</button><button id="clear-selection" class="text-button" disabled>Clear</button></div></div>
+  <div id="migration-notice" class="migration-notice" hidden></div>
+  <ol id="package-list" class="package-list" aria-label="Selected sheets in export order"></ol>
+  <div id="package-empty" class="package-empty"><svg width="52" height="52" viewBox="0 0 48 48" fill="none" aria-hidden="true"><rect x="10" y="6" width="25" height="33" rx="2"/><path d="M16 14h13M16 20h13M16 26h7M38 13v29H17"/></svg><h3>Your package starts here</h3><p>Select drawings from the library.<br>Drag sheets or use the arrow buttons to arrange them.</p></div>
+  <div class="export-area"><div><span id="export-summary">No sheets selected</span><span>Original page sizes preserved</span></div><button id="export-pdf" class="primary-button" disabled><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M5 16v5h14v-5"/></svg>Export combined PDF</button></div>
+</section>
+</main>
+<footer><span class="offline-indicator"><span></span>Offline workspace</span><span id="footer-source">Supplied MDOT drawing library · source snapshot</span><button id="about" class="text-button">Library &amp; help</button></footer>
+</div>
+<dialog id="help-dialog"><div class="dialog-heading"><h2>Library &amp; help</h2><button id="close-help" aria-label="Close library and help">Close</button></div><p>This program bundles the supplied <strong>MDOT Roadway Design Standard Drawings</strong> PDF: 217 drawing sheets, excluding its cover and two index pages.</p><p>The source is a fixed snapshot, with mixed drawing issue and revision dates. It does not check for updates or establish that a drawing is appropriate for your project. Confirm the applicable agency requirements before use.</p><p><strong>Projects:</strong> Save and reopen .sdi-project.json files using Chrome or Edge. Projects contain selections and order, not PDF data. Keep the matching HTML program with your project records.</p><p><strong>Controls:</strong> Search working number, sheet number, or title. Select a row to preview; use its checkbox to include it. Related multipart sets have a “Select complete set” control. Use the arrow buttons or drag package rows to change export order.</p><p><strong>Keyboard:</strong> Ctrl/Cmd+S saves; Ctrl/Cmd+Shift+S saves as; Ctrl/Cmd+O opens a project. Arrow keys resize focused panel separators. Preview is visual; the catalog provides sheet identifiers and titles.</p><p id="library-fingerprint" class="fingerprint"></p><details><summary>Third-party licenses</summary><pre id="license-text"></pre></details></dialog>
+<!-- DATA -->
+<!-- APP -->
+</body>
+</html>

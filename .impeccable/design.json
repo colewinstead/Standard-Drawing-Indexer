@@ -1,0 +1,464 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-14T16:58:46.846148+00:00",
+  "title": "Design System: Standard Drawing Indexer",
+  "extensions": {
+    "colorMeta": {
+      "accent": {
+        "role": "primary",
+        "displayName": "Accent",
+        "tonalRamp": [
+          "oklch(15% 0.09782 243.49)",
+          "oklch(27% 0.09782 243.49)",
+          "oklch(38% 0.09782 243.49)",
+          "oklch(50% 0.09782 243.49)",
+          "oklch(61% 0.09782 243.49)",
+          "oklch(73% 0.09782 243.49)",
+          "oklch(84% 0.09782 243.49)",
+          "oklch(95% 0.09782 243.49)"
+        ]
+      },
+      "accent-hover": {
+        "role": "primary",
+        "displayName": "Accent Hover",
+        "tonalRamp": [
+          "oklch(15% 0.08456 244.64)",
+          "oklch(27% 0.08456 244.64)",
+          "oklch(38% 0.08456 244.64)",
+          "oklch(50% 0.08456 244.64)",
+          "oklch(61% 0.08456 244.64)",
+          "oklch(73% 0.08456 244.64)",
+          "oklch(84% 0.08456 244.64)",
+          "oklch(95% 0.08456 244.64)"
+        ]
+      },
+      "focus": {
+        "role": "primary",
+        "displayName": "Focus",
+        "tonalRamp": [
+          "oklch(15% 0.11733 244.93)",
+          "oklch(27% 0.11733 244.93)",
+          "oklch(38% 0.11733 244.93)",
+          "oklch(50% 0.11733 244.93)",
+          "oklch(61% 0.11733 244.93)",
+          "oklch(73% 0.11733 244.93)",
+          "oklch(84% 0.11733 244.93)",
+          "oklch(95% 0.11733 244.93)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "tonalRamp": [
+          "oklch(15% 0.03651 252.06)",
+          "oklch(27% 0.03651 252.06)",
+          "oklch(38% 0.03651 252.06)",
+          "oklch(50% 0.03651 252.06)",
+          "oklch(61% 0.03651 252.06)",
+          "oklch(73% 0.03651 252.06)",
+          "oklch(84% 0.03651 252.06)",
+          "oklch(95% 0.03651 252.06)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "oklch(15% 0.03047 251.87)",
+          "oklch(27% 0.03047 251.87)",
+          "oklch(38% 0.03047 251.87)",
+          "oklch(50% 0.03047 251.87)",
+          "oklch(61% 0.03047 251.87)",
+          "oklch(73% 0.03047 251.87)",
+          "oklch(84% 0.03047 251.87)",
+          "oklch(95% 0.03047 251.87)"
+        ]
+      },
+      "workspace": {
+        "role": "neutral",
+        "displayName": "Workspace",
+        "tonalRamp": [
+          "oklch(15% 0.00516 247.88)",
+          "oklch(27% 0.00516 247.88)",
+          "oklch(38% 0.00516 247.88)",
+          "oklch(50% 0.00516 247.88)",
+          "oklch(61% 0.00516 247.88)",
+          "oklch(73% 0.00516 247.88)",
+          "oklch(84% 0.00516 247.88)",
+          "oklch(95% 0.00516 247.88)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Surface",
+        "tonalRamp": [
+          "oklch(15% 0.00000 0.00)",
+          "oklch(27% 0.00000 0.00)",
+          "oklch(38% 0.00000 0.00)",
+          "oklch(50% 0.00000 0.00)",
+          "oklch(61% 0.00000 0.00)",
+          "oklch(73% 0.00000 0.00)",
+          "oklch(84% 0.00000 0.00)",
+          "oklch(95% 0.00000 0.00)"
+        ]
+      },
+      "surface-subtle": {
+        "role": "neutral",
+        "displayName": "Surface Subtle",
+        "tonalRamp": [
+          "oklch(15% 0.00342 247.86)",
+          "oklch(27% 0.00342 247.86)",
+          "oklch(38% 0.00342 247.86)",
+          "oklch(50% 0.00342 247.86)",
+          "oklch(61% 0.00342 247.86)",
+          "oklch(73% 0.00342 247.86)",
+          "oklch(84% 0.00342 247.86)",
+          "oklch(95% 0.00342 247.86)"
+        ]
+      },
+      "preview-ground": {
+        "role": "neutral",
+        "displayName": "Preview Ground",
+        "tonalRamp": [
+          "oklch(15% 0.00763 241.67)",
+          "oklch(27% 0.00763 241.67)",
+          "oklch(38% 0.00763 241.67)",
+          "oklch(50% 0.00763 241.67)",
+          "oklch(61% 0.00763 241.67)",
+          "oklch(73% 0.00763 241.67)",
+          "oklch(84% 0.00763 241.67)",
+          "oklch(95% 0.00763 241.67)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Line",
+        "tonalRamp": [
+          "oklch(15% 0.01117 243.66)",
+          "oklch(27% 0.01117 243.66)",
+          "oklch(38% 0.01117 243.66)",
+          "oklch(50% 0.01117 243.66)",
+          "oklch(61% 0.01117 243.66)",
+          "oklch(73% 0.01117 243.66)",
+          "oklch(84% 0.01117 243.66)",
+          "oklch(95% 0.01117 243.66)"
+        ]
+      },
+      "control-line": {
+        "role": "neutral",
+        "displayName": "Control Line",
+        "tonalRamp": [
+          "oklch(15% 0.01589 248.01)",
+          "oklch(27% 0.01589 248.01)",
+          "oklch(38% 0.01589 248.01)",
+          "oklch(50% 0.01589 248.01)",
+          "oklch(61% 0.01589 248.01)",
+          "oklch(73% 0.01589 248.01)",
+          "oklch(84% 0.01589 248.01)",
+          "oklch(95% 0.01589 248.01)"
+        ]
+      },
+      "control-hover": {
+        "role": "neutral",
+        "displayName": "Control Hover",
+        "tonalRamp": [
+          "oklch(15% 0.00927 242.84)",
+          "oklch(27% 0.00927 242.84)",
+          "oklch(38% 0.00927 242.84)",
+          "oklch(50% 0.00927 242.84)",
+          "oklch(61% 0.00927 242.84)",
+          "oklch(73% 0.00927 242.84)",
+          "oklch(84% 0.00927 242.84)",
+          "oklch(95% 0.00927 242.84)"
+        ]
+      },
+      "control-hover-line": {
+        "role": "neutral",
+        "displayName": "Control Hover Line",
+        "tonalRamp": [
+          "oklch(15% 0.03849 242.01)",
+          "oklch(27% 0.03849 242.01)",
+          "oklch(38% 0.03849 242.01)",
+          "oklch(50% 0.03849 242.01)",
+          "oklch(61% 0.03849 242.01)",
+          "oklch(73% 0.03849 242.01)",
+          "oklch(84% 0.03849 242.01)",
+          "oklch(95% 0.03849 242.01)"
+        ]
+      },
+      "control-active": {
+        "role": "neutral",
+        "displayName": "Control Active",
+        "tonalRamp": [
+          "oklch(15% 0.01769 240.00)",
+          "oklch(27% 0.01769 240.00)",
+          "oklch(38% 0.01769 240.00)",
+          "oklch(50% 0.01769 240.00)",
+          "oklch(61% 0.01769 240.00)",
+          "oklch(73% 0.01769 240.00)",
+          "oklch(84% 0.01769 240.00)",
+          "oklch(95% 0.01769 240.00)"
+        ]
+      },
+      "previewed": {
+        "role": "neutral",
+        "displayName": "Previewed",
+        "tonalRamp": [
+          "oklch(15% 0.01345 240.95)",
+          "oklch(27% 0.01345 240.95)",
+          "oklch(38% 0.01345 240.95)",
+          "oklch(50% 0.01345 240.95)",
+          "oklch(61% 0.01345 240.95)",
+          "oklch(73% 0.01345 240.95)",
+          "oklch(84% 0.01345 240.95)",
+          "oklch(95% 0.01345 240.95)"
+        ]
+      },
+      "count-ground": {
+        "role": "neutral",
+        "displayName": "Count Ground",
+        "tonalRamp": [
+          "oklch(15% 0.00759 241.66)",
+          "oklch(27% 0.00759 241.66)",
+          "oklch(38% 0.00759 241.66)",
+          "oklch(50% 0.00759 241.66)",
+          "oklch(61% 0.00759 241.66)",
+          "oklch(73% 0.00759 241.66)",
+          "oklch(84% 0.00759 241.66)",
+          "oklch(95% 0.00759 241.66)"
+        ]
+      },
+      "count-ink": {
+        "role": "neutral",
+        "displayName": "Count Ink",
+        "tonalRamp": [
+          "oklch(15% 0.03879 244.60)",
+          "oklch(27% 0.03879 244.60)",
+          "oklch(38% 0.03879 244.60)",
+          "oklch(50% 0.03879 244.60)",
+          "oklch(61% 0.03879 244.60)",
+          "oklch(73% 0.03879 244.60)",
+          "oklch(84% 0.03879 244.60)",
+          "oklch(95% 0.03879 244.60)"
+        ]
+      },
+      "warning-ground": {
+        "role": "neutral",
+        "displayName": "Warning Ground",
+        "tonalRamp": [
+          "oklch(15% 0.02931 80.66)",
+          "oklch(27% 0.02931 80.66)",
+          "oklch(38% 0.02931 80.66)",
+          "oklch(50% 0.02931 80.66)",
+          "oklch(61% 0.02931 80.66)",
+          "oklch(73% 0.02931 80.66)",
+          "oklch(84% 0.02931 80.66)",
+          "oklch(95% 0.02931 80.66)"
+        ]
+      },
+      "warning-ink": {
+        "role": "neutral",
+        "displayName": "Warning Ink",
+        "tonalRamp": [
+          "oklch(15% 0.08797 69.22)",
+          "oklch(27% 0.08797 69.22)",
+          "oklch(38% 0.08797 69.22)",
+          "oklch(50% 0.08797 69.22)",
+          "oklch(61% 0.08797 69.22)",
+          "oklch(73% 0.08797 69.22)",
+          "oklch(84% 0.08797 69.22)",
+          "oklch(95% 0.08797 69.22)"
+        ]
+      },
+      "warning-line": {
+        "role": "neutral",
+        "displayName": "Warning Line",
+        "tonalRamp": [
+          "oklch(15% 0.05484 80.67)",
+          "oklch(27% 0.05484 80.67)",
+          "oklch(38% 0.05484 80.67)",
+          "oklch(50% 0.05484 80.67)",
+          "oklch(61% 0.05484 80.67)",
+          "oklch(73% 0.05484 80.67)",
+          "oklch(84% 0.05484 80.67)",
+          "oklch(95% 0.05484 80.67)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "title": {
+        "displayName": "Application title",
+        "purpose": "Compact utility identity."
+      },
+      "panel-title": {
+        "displayName": "Panel title",
+        "purpose": "Workspace region headings."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Operational content and default controls."
+      },
+      "control": {
+        "displayName": "Control",
+        "purpose": "Compact semibold button labels."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Supporting metadata and secondary commands."
+      },
+      "drawing-title": {
+        "displayName": "Drawing title",
+        "purpose": "Original catalog title beneath the identifier."
+      }
+    },
+    "shadows": [
+      {
+        "name": "original-sheet",
+        "value": "0 3px 14px #25344526",
+        "purpose": "Lift the original white sheet above its neutral surround."
+      },
+      {
+        "name": "dialog",
+        "value": "0 12px 40px #172c4533",
+        "purpose": "Modal help depth."
+      },
+      {
+        "name": "previewed-row",
+        "value": "inset 2px 0 var(--accent)",
+        "purpose": "Inspected catalog row."
+      },
+      {
+        "name": "drop-target",
+        "value": "inset 0 2px var(--accent)",
+        "purpose": "Package insertion target."
+      }
+    ],
+    "motion": [
+      {
+        "name": "control-state",
+        "value": "background-color .12s ease-out, border-color .12s ease-out",
+        "purpose": "Button/input/select feedback; disabled under reduced motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide-desktop",
+        "value": "(min-width: 1650px)"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "(max-width: 1100px)"
+      },
+      {
+        "name": "stacked",
+        "value": "(max-width: 880px)"
+      }
+    ],
+    "focus": {
+      "value": "outline: 2px solid var(--focus); outline-offset: 2px",
+      "purpose": "Every focus-visible element, including viewport and separators."
+    },
+    "backdrop": {
+      "value": "#122a414d",
+      "purpose": "Help dialog dimming."
+    },
+    "tonalRampNote": "Generated OKLCH lightness ramps are exploratory panel metadata only; source CSS does not define or use these ramps."
+  },
+  "components": [
+    {
+      "name": "Default button",
+      "kind": "button",
+      "refersTo": "button-default",
+      "description": "Compact file or toolbar action.",
+      "html": "<button class=\"ds-button\">Open project</button>",
+      "css": ".ds-button{font-family:Segoe UI, Inter, -apple-system, BlinkMacSystemFont, sans-serif;font-size:13px;color:var(--ink,#253445);display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:32px;padding:5px 12px;border:1px solid #c9d2db;border-radius:4px;background:#fff;font-weight:550;cursor:pointer;transition:background-color .12s ease-out,border-color .12s ease-out;}.ds-button:hover:not(:disabled){background:#eff5fa;border-color:#91a9bc}.ds-button:active:not(:disabled){background:#e1edf6}.ds-button:disabled{opacity:.48;cursor:default}.ds-button:focus-visible{outline:2px solid var(--focus,#176aa3);outline-offset:2px}@media(prefers-reduced-motion:reduce){*{transition:none!important}}"
+    },
+    {
+      "name": "Export button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Primary package action, enabled only when export is ready.",
+      "html": "<button class=\"ds-export\"><svg width=\"17\" height=\"17\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" aria-hidden=\"true\"><path d=\"M12 3v12m-4-4 4 4 4-4M5 16v5h14v-5\"/></svg>Export combined PDF</button>",
+      "css": ".ds-export{font-family:Segoe UI, Inter, -apple-system, BlinkMacSystemFont, sans-serif;font-size:13px;color:var(--ink,#253445);display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:32px;padding:5px 12px;border:1px solid #c9d2db;border-radius:4px;background:#fff;font-weight:550;cursor:pointer;transition:background-color .12s ease-out,border-color .12s ease-out;width:100%;min-height:39px;font-size:12px;color:#fff;background:var(--accent,#175a87);border-color:var(--accent,#175a87)}.ds-export:hover:not(:disabled){background:#10466c;border-color:#10466c}.ds-export:active:not(:disabled){background:#e1edf6}.ds-export:disabled{opacity:.48;cursor:default}.ds-export:focus-visible{outline:2px solid var(--focus,#176aa3);outline-offset:2px}@media(prefers-reduced-motion:reduce){*{transition:none!important}}"
+    },
+    {
+      "name": "Text action",
+      "kind": "button",
+      "refersTo": "button-text",
+      "description": "Secondary catalog or package command.",
+      "html": "<button class=\"ds-text\">Select all shown</button>",
+      "css": ".ds-text{font-family:Segoe UI, Inter, -apple-system, BlinkMacSystemFont, sans-serif;font-size:13px;color:var(--ink,#253445);display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:32px;padding:5px 12px;border:1px solid #c9d2db;border-radius:4px;background:#fff;font-weight:550;cursor:pointer;transition:background-color .12s ease-out,border-color .12s ease-out;min-height:26px;padding:3px 0;font-size:11px;color:var(--accent,#175a87);background:transparent;border:0}.ds-text:hover:not(:disabled){color:#0c3d60;text-decoration:underline;text-underline-offset:3px}.ds-text:active:not(:disabled){background:#e1edf6}.ds-text:disabled{opacity:.48;cursor:default}.ds-text:focus-visible{outline:2px solid var(--focus,#176aa3);outline-offset:2px}@media(prefers-reduced-motion:reduce){*{transition:none!important}}"
+    },
+    {
+      "name": "Search field",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Labeled drawing search with an inset magnifier.",
+      "html": "<label class=\"ds-search\"><svg viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><circle cx=\"10.5\" cy=\"10.5\" r=\"6.5\"/><path d=\"m16 16 4 4\"/></svg><input aria-label=\"Search drawings\" type=\"search\" placeholder=\"Search number or title\"></label>",
+      "css": ".ds-search{display:flex;align-items:center;position:relative}.ds-search svg{position:absolute;left:10px;width:16px;height:16px;stroke:#627487;stroke-width:1.6;pointer-events:none}.ds-search input{font-family:Segoe UI, Inter, -apple-system, BlinkMacSystemFont, sans-serif;font-size:13px;color:var(--ink,#253445);width:100%;height:37px;min-width:0;padding:6px 9px 6px 34px;background:#fff;border:1px solid #c9d2db;border-radius:4px;caret-color:var(--accent,#175a87);transition:background-color .12s ease-out,border-color .12s ease-out}.ds-search input::placeholder{color:#687583}.ds-search input:focus-visible{outline:2px solid var(--focus,#176aa3);outline-offset:2px}@media(prefers-reduced-motion:reduce){*{transition:none!important}}"
+    },
+    {
+      "name": "Project file navigation",
+      "kind": "nav",
+      "description": "Grouped file commands with a structural divider.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Project files\"><button>New</button><button>Open project</button><span aria-hidden=\"true\"></span><button>Save</button><button>Save as\u2026</button></nav>",
+      "css": ".ds-nav{display:flex;align-items:center;gap:7px;flex-wrap:wrap}.ds-nav button{font-family:Segoe UI, Inter, -apple-system, BlinkMacSystemFont, sans-serif;font-size:13px;color:var(--ink,#253445);display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:32px;padding:5px 12px;border:1px solid #c9d2db;border-radius:4px;background:#fff;font-weight:550;cursor:pointer;transition:background-color .12s ease-out,border-color .12s ease-out;min-height:33px}.ds-nav span{height:22px;width:1px;background:var(--line,#d9e0e6);margin:0 6px}.ds-nav button:hover{background:#eff5fa;border-color:#91a9bc}.ds-nav button:active{background:#e1edf6}.ds-nav button:focus-visible{outline:2px solid var(--focus,#176aa3);outline-offset:2px}@media(prefers-reduced-motion:reduce){*{transition:none!important}}"
+    },
+    {
+      "name": "Count badge",
+      "kind": "chip",
+      "refersTo": "count",
+      "description": "Noninteractive tabular sheet count.",
+      "html": "<span class=\"ds-count\">217</span>",
+      "css": ".ds-count{font-family:Segoe UI, Inter, -apple-system, BlinkMacSystemFont, sans-serif;font-size:13px;color:var(--ink,#253445);display:inline-block;font-variant-numeric:tabular-nums;background:#edf2f6;color:#4a5f71;padding:3px 7px;min-width:26px;text-align:center;border-radius:4px;font-size:11px;font-weight:650}@media(prefers-reduced-motion:reduce){*{transition:none!important}}"
+    },
+    {
+      "name": "Drawing catalog row",
+      "kind": "custom",
+      "description": "Distinct inspection and inclusion controls; preview wash marks the inspected sheet.",
+      "html": "<div class=\"ds-row\"><input type=\"checkbox\" aria-label=\"Include SN-1, sheet 6301\"><button aria-pressed=\"true\"><span class=\"ds-row-top\"><strong>SN-1</strong><span>SHEET 6301</span></span><span class=\"ds-row-title\">STANDARD DIRECTIONAL (GUIDE) SIGNS</span></button></div>",
+      "css": ".ds-row{font-family:Segoe UI, Inter, -apple-system, BlinkMacSystemFont, sans-serif;font-size:13px;color:var(--ink,#253445);display:grid;grid-template-columns:18px minmax(0,1fr);gap:10px;padding:13px 18px;border-bottom:1px solid #e9edf1;background:#eaf3fa;box-shadow:inset 2px 0 var(--accent,#175a87)}.ds-row input{accent-color:var(--accent,#175a87);width:15px;height:15px;margin:2px 0 0;cursor:pointer}.ds-row button{font-family:Segoe UI, Inter, -apple-system, BlinkMacSystemFont, sans-serif;font-size:13px;color:var(--ink,#253445);display:block;border:0;border-radius:0;background:transparent;padding:0;text-align:left;width:100%;font-weight:400;line-height:1.45;cursor:pointer}.ds-row-top{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:4px}.ds-row-top strong{color:#234860;font-size:13px;font-weight:650}.ds-row-top>span{font-size:10px;color:var(--muted,#5e6c7c);font-variant-numeric:tabular-nums}.ds-row-title{display:block;font-size:11px;color:#465565;line-height:1.5}.ds-row button:focus-visible{outline:2px solid var(--focus,#176aa3);outline-offset:2px}.ds-row input:focus-visible{outline:2px solid var(--focus,#176aa3);outline-offset:2px}@media(prefers-reduced-motion:reduce){*{transition:none!important}}"
+    },
+    {
+      "name": "Panel container",
+      "kind": "card",
+      "description": "Flat workspace panel with a compact heading and numerical count.",
+      "html": "<section class=\"ds-panel\" aria-labelledby=\"ds-panel-title\"><div class=\"ds-panel-title\"><h2 id=\"ds-panel-title\">Drawing library</h2><span>217</span></div></section>",
+      "css": ".ds-panel{font-family:Segoe UI,Inter,-apple-system,BlinkMacSystemFont,sans-serif;color:var(--ink,#253445);background:#fff;min-width:0;display:flex;flex-direction:column;overflow:hidden}.ds-panel-title{padding:20px 18px 16px;display:flex;align-items:center;justify-content:space-between;gap:8px}.ds-panel h2{margin:0;font-size:14px;font-weight:650}.ds-panel-title>span{font-variant-numeric:tabular-nums;background:#edf2f6;color:#4a5f71;padding:3px 7px;min-width:26px;text-align:center;border-radius:4px;font-size:11px;font-weight:650}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Engineering Drawing Desk",
+    "overview": "A compact, light engineering workspace makes the original drawing the visual focus. Restrained blue identifies actions and state; neutral panels, fine dividers, and familiar file controls support repeated use. Bluebeam Revu and Windows File Explorer are familiarity references, without copied branding.\n\nThe interface uses practical density and quiet typography rather than promotional imagery. Catalog selection, drawing inspection, and explicit package order remain visually distinct. The desktop workspace is the primary operating context; narrow screens retain the same sequence as stacked panels.",
+    "keyCharacteristics": [
+      "Compact light utility surfaces",
+      "Original drawing as the visual focus",
+      "Restrained blue actions and state",
+      "Visible keyboard focus and explicit order"
+    ],
+    "rules": [
+      {
+        "name": "The Drawing First Rule",
+        "body": "Interface color must support navigation and state while leaving the original drawing as the visual focus.",
+        "section": "colors"
+      },
+      {
+        "name": "The Flat Workspace Rule",
+        "body": "Keep routine controls and panels flat; depth belongs to the original sheet and modal help.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do keep the original drawing visually dominant and free of added markings.",
+      "Do preserve visible keyboard focus on every interactive control.",
+      "Do distinguish the previewed row from the checkbox inclusion state.",
+      "Do keep export order visible through numbered package rows and explicit reorder controls."
+    ],
+    "donts": [
+      "Don't introduce marketing illustrations, promotional hero sections, or decorative gradients into the workspace.",
+      "Don't copy Bluebeam or File Explorer branding.",
+      "Don't replace the compact rows with ornamental cards or large display typography.",
+      "Don't use color alone to communicate inclusion, ordering, or review requirements."
+    ]
+  }
+}

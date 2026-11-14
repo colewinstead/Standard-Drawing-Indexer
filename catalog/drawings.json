@@ -1,0 +1,2190 @@
+{
+  "schemaVersion": 1,
+  "name": "MDOT Roadway Design Standard Drawings",
+  "sourceFile": "Roadway Design Standard Drawings.pdf",
+  "libraryId": "d7d1283a65316ad5da0a39eab459ccfda15f80687a72c7edbb6f4a8daa6ecb99",
+  "fingerprintMethod": "sha256-normalized-text-and-pymupdf-0.5-rgb-v1",
+  "pageCount": 220,
+  "drawings": [
+    {
+      "id": "CRP-1",
+      "sheet": "6001",
+      "category": "Pavement",
+      "page": 3,
+      "title": "CONTINUOUSLY REINFORCED CONCRETE PAVEMENT: 24 FT. WIDE",
+      "fingerprint": "6468b1d5cf53e40a4ba37f50102dbf9ddd622b5643aed08042826df7857a93ae",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "CRP-1A",
+      "sheet": "6002",
+      "category": "Pavement",
+      "page": 4,
+      "title": "CONTINUOUSLY REINFORCED CONCRETE PAVEMENT: 20 FT. WIDE",
+      "fingerprint": "c1526edb2547bc2f27b036f971b1e50813db61f03bca40b7b805d922d19d1058",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "CRP-1B",
+      "sheet": "6003",
+      "category": "Pavement",
+      "page": 5,
+      "title": "CONTINUOUSLY REINFORCED CONCRETE PAVEMENT: 16 FT. WIDE",
+      "fingerprint": "df7a2fd7a32a60fe1c9cad5df5ff3fa4f2d5a004e02c2ad8a47cac7586b07a91",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "PJ-1",
+      "sheet": "6004",
+      "category": "Pavement",
+      "page": 6,
+      "title": "CONCRETE PAVEMENT JOINTS",
+      "fingerprint": "cc5519c5783dce470bbe29bba024b282e69e820fe3d056fa0a5c522544108942",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "PJ-2",
+      "sheet": "6005",
+      "category": "Pavement",
+      "page": 7,
+      "title": "CONCRETE PAVEMENT JOINTS (LONGITUDINAL)",
+      "fingerprint": "b017082acdc309edba51fd284c66484d50b0f934aebab4446af17f2d7ddf67fe",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "LA-1",
+      "sheet": "6006",
+      "category": "Pavement",
+      "page": 8,
+      "title": "CONCRETE LUG ANCHORS",
+      "fingerprint": "22ade7e4a508379b8bd097f99c5b12f22b3b0656cae5c5ec044b831f3c251f9d",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "BE-1",
+      "sheet": "6007",
+      "category": "Pavement",
+      "page": 9,
+      "title": "BRIDGE END PAVEMENT WITH RAIL, OVERLAY, AND SLEEPER SLAB (NEW CONSTRUCTION)",
+      "fingerprint": "c3c987f5ebebdfbdc9b682a315440d34a7e1c109b926c9dbd2488ee666bf24a9",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "BE-2",
+      "sheet": "6008",
+      "category": "Pavement",
+      "page": 10,
+      "title": "BRIDGE END PAVEMENT WITH RAIL AND OVERLAY",
+      "fingerprint": "1432ef5a178e41be799b7cfdf470cad48f5e36bbe96aa8f4c746061cba07c7d3",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "BER-1",
+      "sheet": "6009",
+      "category": "Pavement",
+      "page": 11,
+      "title": "BRIDGE END PAVEMENT RAIL (37.5\" RAIL HEIGHT)",
+      "fingerprint": "7644ce085afae0a61a1e9e99d38850e1787d2b307466f830c8a1c7ce74515cbd",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "BER-2",
+      "sheet": "6010",
+      "category": "Pavement",
+      "page": 12,
+      "title": "BRIDGE END PAVEMENT RAIL (43.5\" RAIL HEIGHT)",
+      "fingerprint": "c3d3286bf3e2907748e32ea136c4328bbcd0cab177f6a6961f0ae3be5a44a38f",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "CIP-1",
+      "sheet": "6011",
+      "category": "Pavement",
+      "page": 13,
+      "title": "CONCRETE ISLAND PAVEMENT DETAILS",
+      "fingerprint": "3be4dd4d3a541c8119369a94250251a0c621b2e9d99b0f791ec0fbeee6d652c8",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "PM-1",
+      "sheet": "6051",
+      "category": "Pavement Marking",
+      "page": 14,
+      "title": "PAVEMENT MARKING DETAILS FOR 2-LANE & 4-LANE DIVIDED ROADWAYS",
+      "fingerprint": "6a3d5ed615be554e65a9eb231ae9703a86207fe831d166638753a17534dee710",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "PM-2",
+      "sheet": "6052",
+      "category": "Pavement Marking",
+      "page": 15,
+      "title": "PAVEMENT MARKING DETAILS FOR 3, 4 & 5-LANE UNDIVIDED ROADWAYS",
+      "fingerprint": "01e398f85495731e95f3b55a8cd9fea0661e44b2b177b3829b1b6af20727a041",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "PM-3",
+      "sheet": "6053",
+      "category": "Pavement Marking",
+      "page": 16,
+      "title": "PAVEMENT MARKING DETAILS FOR INTERCHANGE ENTRANCE RAMPS (PARALLEL & TAPER)",
+      "fingerprint": "8f7e2d44c583eb45c5885da96de0aecf943499ea37be69fdea5922ccba44d780",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "PM-4",
+      "sheet": "6054",
+      "category": "Pavement Marking",
+      "page": 17,
+      "title": "PAVEMENT MARKING DETAILS FOR INTERCHANGE EXIT RAMPS (PARALLEL & TAPER)",
+      "fingerprint": "2a886352f46f999f879517d572f5d846d437fb2addb72f63fda3f60b8aa46ad2",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "PM-5",
+      "sheet": "6055",
+      "category": "Pavement Marking",
+      "page": 18,
+      "title": "PAVEMENT MARKING LEGEND DETAILS",
+      "fingerprint": "5f9dbf8d0f76928c8c4e0d3947430caecd107e2ed930c7b2570218af58f75c25",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "PM-6",
+      "sheet": "6056",
+      "category": "Pavement Marking",
+      "page": 19,
+      "title": "PAVEMENT MARKING LEGEND DETAILS",
+      "fingerprint": "2c918ee57ffa797e06a7d7a69fb7b5404146f0dd2f27324248405aa51acead65",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "PM-7",
+      "sheet": "6057",
+      "category": "Pavement Marking",
+      "page": 20,
+      "title": "TYPICAL PLACEMENT OF WARNING SIGNS AND PAVEMENT MARKINGS AT R.R. - HIGHWAY GRADE CROSSINGS",
+      "fingerprint": "5f8e790c396be72ca16649f13a597fdb980a80bb0106ee6aa49faaac2d059fd0",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "PM-8",
+      "sheet": "6058",
+      "category": "Pavement Marking",
+      "page": 21,
+      "title": "4-LANE TO 2-LANE TRANSITION AT INTERCHANGE",
+      "fingerprint": "ff3b76f56c12225b71dea598f0c1373fdd6f1eff150d087d442e85b99a3132cb",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "PM-9",
+      "sheet": "6059",
+      "category": "Pavement Marking",
+      "page": 22,
+      "title": "TYPICAL PAVEMENT MARKING DETAIL FOR MEDIAN CROSSOVERS",
+      "fingerprint": "8f5d3d087a3ef7364bd151adb3854b70d352bf926ad7e75ed03da8ac94e8a792",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "PM-10",
+      "sheet": "6060",
+      "category": "Pavement Marking",
+      "page": 23,
+      "title": "PAVEMENT MARKING DETAILS FOR INTERCHANGE WITH LANE DROPS",
+      "fingerprint": "032b9711bc33717e46f003bc71561369f392a7d94a21326e0874900b15554996",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "PM-11",
+      "sheet": "6061",
+      "category": "Pavement Marking",
+      "page": 24,
+      "title": "2-WAY RAISED PAVEMENT MARKERS AT INTERSECTING ROADS (2-LANE)",
+      "fingerprint": "4b75d50559edfb08b45c73c59450a345eb998ab839e30a9dd7f6694b16c306a2",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "PM-12",
+      "sheet": "6062",
+      "category": "Pavement Marking",
+      "page": 25,
+      "title": "2-WAY RAISED PAVEMENT MARKERS AT INTERSECTING ROADS (4-LANE)",
+      "fingerprint": "11bc8fe843c874158567bef4be1d4de7bd62af90d63ebeb51abc07d5ee6b6de7",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "PM-13",
+      "sheet": "6063",
+      "category": "Pavement Marking",
+      "page": 26,
+      "title": "OFFSET LEFT TURN LANES",
+      "fingerprint": "46cf3f19afd5b87ab8bf90c6f58360b1c573d69a41dae6b7b09048c0df7d91ec",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "RS-1",
+      "sheet": "6064",
+      "category": "Pavement Marking",
+      "page": 27,
+      "title": "RUMBLE STRIPES 2-LANE HIGHWAYS (ASPHALT LANES, 2-FT ASPHALT SHOULDERS)",
+      "fingerprint": "8b37a58dec7772ae989021a228214f3ec0ebb46f0803038b40fa1e59878843cd",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "RS-2",
+      "sheet": "6065",
+      "category": "Pavement Marking",
+      "page": 28,
+      "title": "RUMBLE STRIPES 4-LANE HIGHWAYS (ASPHALT LANES, 2-FT OR WIDER ASPHALT SHOULDERS)",
+      "fingerprint": "76cc8330307208997c8e3b54020d91a417a1894126b54b9f34efe4393576bf8e",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "RS-3",
+      "sheet": "6066",
+      "category": "Pavement Marking",
+      "page": 29,
+      "title": "RUMBLE STRIP DETAIL FOR OGFC OR CONCRETE ROADWAY WITH ASPHALT SHOULDERS",
+      "fingerprint": "0cc4653073705309de2fe539f23ff0e98564fd70afd50d3e03dd2665e6613d91",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-1",
+      "sheet": "6101",
+      "category": "Erosion Control",
+      "page": 30,
+      "title": "TYPICAL TEMPORARY EROSION CONTROL/SEDIMENT CONTROL APPLICATIONS",
+      "fingerprint": "b3e7919c515a3d57724552e240a0712bdeeac99ee447525d4ef4e774b9e571d5",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-2",
+      "sheet": "6102",
+      "category": "Erosion Control",
+      "page": 31,
+      "title": "DETAILS OF SEDIMENT BARRIER APPLICATIONS",
+      "fingerprint": "39e1a42cdb3645c26a867c868abf5e48dfd80e40df72971a04438e9d9c1e909b",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-3",
+      "sheet": "6103",
+      "category": "Erosion Control",
+      "page": 32,
+      "title": "DETAILS OF SILT FENCE INSTALLATION",
+      "fingerprint": "2f954401d491bd9247c2837bf0caa3d88470e7b47c7c89f3b2f5f7679c71d596",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-4",
+      "sheet": "6104",
+      "category": "Erosion Control",
+      "page": 33,
+      "title": "DITCH CHECK STRUCTURES, TYPICAL APPLICATIONS AND DETAILS",
+      "fingerprint": "bcd50c4bb05ab38065847f660cc1e3cb11b8103c0bef75db750850a7e5490c69",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-5",
+      "sheet": "6105",
+      "category": "Erosion Control",
+      "page": 34,
+      "title": "TEMPORARY EROSION, SEDIMENT, AND WATER POLLUTION CONTROL MEASURES (SILT FENCE AND HAY BALE DITCH CHECKS)",
+      "fingerprint": "44d04011683589d19f2ebb28139b8b166cf7adf6c43da664585716e501cab663",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-6",
+      "sheet": "6106",
+      "category": "Erosion Control",
+      "page": 35,
+      "title": "DETAILS OF EROSION CONTROL WATTLE DITCH CHECK",
+      "fingerprint": "e017c7e66e112678cbaa1f1c1add56130c2e0d0be891b67712e7a023038853e9",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-7",
+      "sheet": "6107",
+      "category": "Erosion Control",
+      "page": 36,
+      "title": "DETAILS OF EROSION CONTROL SILT DIKE DITCH CHECK",
+      "fingerprint": "6ac39aaea15a17ad6fbe80864d028cb120b88461e00ee7b406acbd1f47cd9530",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-8",
+      "sheet": "6108",
+      "category": "Erosion Control",
+      "page": 37,
+      "title": "ROCK DITCH CHECK",
+      "fingerprint": "7eecc6d468bf8ca56ea6416bf96d9bc85df666a2a73912e30c39b09b50c79f69",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-9",
+      "sheet": "6109",
+      "category": "Erosion Control",
+      "page": 38,
+      "title": "ROCK FILTER DAM",
+      "fingerprint": "43282a94743d279aa6e3b4283858fd4403b68697cdfec9cf5c7f4478de5855dc",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-10",
+      "sheet": "6110",
+      "category": "Erosion Control",
+      "page": 39,
+      "title": "ROCK DITCH CHECK WITH SUMP EXCAVATION AND ROCK FILTER DAM",
+      "fingerprint": "b823ca50a66abf0dc786d8ae445d3d3640f24451da267631c00a08aee3e8fc1d",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-11",
+      "sheet": "6111",
+      "category": "Erosion Control",
+      "page": 40,
+      "title": "TYPICAL SEDIMENT CONTROL APPLICATIONS AND DETAILS FOR INLET CONSTRUCTION",
+      "fingerprint": "0052e4f7a8243b53122e2ea1b3ed579fefdbe69027aeaa6b9102d8a504904045",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-12",
+      "sheet": "6112",
+      "category": "Erosion Control",
+      "page": 41,
+      "title": "INLET PROTECTION DETAILS FOR SEDIMENT CONTROL STONE ON GRADES AND SAGS",
+      "fingerprint": "62e5a89637660fdff9fced2ede3506b36b269d489d11c0bd8d0985334ac4ddad",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-13",
+      "sheet": "6113",
+      "category": "Erosion Control",
+      "page": 42,
+      "title": "INLET PROTECTION DETAILS OF WATTLES",
+      "fingerprint": "289a4c8a4935a4d3ec7bf2a8c4950d3c960465acfb01de2da2ac2f4a7c85b0c4",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-14",
+      "sheet": "6114",
+      "category": "Erosion Control",
+      "page": 43,
+      "title": "INLET PROTECTION DETAILS OF MANUFACTURED INLET PROTECTION DEVICE",
+      "fingerprint": "f9c0bec739714af2fb0bdd9e715cd5bd7ac2325cd4c033ca83d2c43d14ab6037",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-15",
+      "sheet": "6115",
+      "category": "Erosion Control",
+      "page": 44,
+      "title": "INLET PROTECTION DETAILS OF SANDBAGS",
+      "fingerprint": "743fdc08b8ee07b1530d370c032b1a605833ee87a51bbf2dffaf5aa55a4347b4",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-16",
+      "sheet": "6116",
+      "category": "Erosion Control",
+      "page": 45,
+      "title": "STABILIZED CONSTRUCTION ENTRANCE",
+      "fingerprint": "3a003f2be22eb0643d9781b4b95caa44d3834827299183bfbd28ba07a4b6c26e",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-17",
+      "sheet": "6117",
+      "category": "Erosion Control",
+      "page": 46,
+      "title": "TEMPORARY CULVERT STREAM CROSSING",
+      "fingerprint": "c54be5c95c366ec9bbcecdd9c5ad6d419c4dfe205a635823fabe4b3d96eba1a4",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-18",
+      "sheet": "6118",
+      "category": "Erosion Control",
+      "page": 47,
+      "title": "TEMPORARY STREAM DIVERSION",
+      "fingerprint": "510ca6ee12343b0c91a57e1d34d95da5919788dd872a9a880c90f4b346d72171",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-19",
+      "sheet": "6119",
+      "category": "Erosion Control",
+      "page": 48,
+      "title": "TEMPORARY STREAM DIVERSION (BOX EXTENSION)",
+      "fingerprint": "d5f79109db1f621e4de0824b943dfe7b663c97b7d650fa6f4ca081a01e96f9a1",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-20",
+      "sheet": "6120",
+      "category": "Erosion Control",
+      "page": 49,
+      "title": "FLOATING TURBIDITY CURTAIN",
+      "fingerprint": "fb7198df1a0382c02bc339b531caa1abd8d5690cc60a3b0c4fbbdb2cd8c19999",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-21",
+      "sheet": "6121",
+      "category": "Erosion Control",
+      "page": 50,
+      "title": "DETAILS OF EROSION CONTROL SANDBAG DITCH CHECK",
+      "fingerprint": "7e590b51ea74b9c7c363016d8c88fe4b92ac9af2face90ac439d0548177d60fe",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECD-22",
+      "sheet": "6122",
+      "category": "Erosion Control",
+      "page": 51,
+      "title": "SEDIMENT RETENTION BARRIER",
+      "fingerprint": "0a6b4ea9d45bf99eb9fa5935ac200848a47a6a746eb2c0f8a822e34642e1ed24",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "DT-1",
+      "sheet": "6123",
+      "category": "Erosion Control",
+      "page": 52,
+      "title": "DETAILS OF TYPICAL DITCH TREATMENTS",
+      "fingerprint": "0f1fdeedc39682188acedf12936a2484e2de804d2d69e1eb9c70fbeaf85b0c4f",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "DT-1A",
+      "sheet": "6124",
+      "category": "Erosion Control",
+      "page": 53,
+      "title": "DITCH TREATMENT INSTALLATION DETAIL FOR SOIL REINFORCING MAT",
+      "fingerprint": "c070a7988465982d2f9817f4058a0877e468cdcd27412d3670bebe24137aea88",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "BAS-A",
+      "sheet": "6125",
+      "category": "Erosion Control",
+      "page": 54,
+      "title": "TYPICAL TEMPORARY EROSION CONTROL MEASURES (SLOPE DRAIN AND TYPE A SILT BASIN)",
+      "fingerprint": "32e7247d5c8af8515621e3a22627f87634aa9a268ba5b5e5e07caf8a0cc38a87",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "BAS-B",
+      "sheet": "6126",
+      "category": "Erosion Control",
+      "page": 55,
+      "title": "TYPICAL TEMPORARY EROSION CONTROL MEASURES (TYPE B SILT BASIN)",
+      "fingerprint": "6b1f7c16b601b81c6ce075c096d90c6ae8ebb208f5bea071e62c64a6596a8bed",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "BAS-C1",
+      "sheet": "6127",
+      "category": "Erosion Control",
+      "page": 56,
+      "title": "TYPICAL TEMPORARY EROSION CONTROL MEASURES (TYPE C1 SILT BASIN)",
+      "fingerprint": "f35249854306a7d0dbf7c747df952b5688c88469348bc69d1c1f597b553880ef",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "BAS-C2",
+      "sheet": "6128",
+      "category": "Erosion Control",
+      "page": 57,
+      "title": "TYPICAL TEMPORARY EROSION CONTROL MEASURES (TYPE C2 SILT BASIN)",
+      "fingerprint": "ec6331b2a2aff96c8d42f7833ec706c5a5e6e14882973f514f9d9a43e6485f94",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "BAS-D",
+      "sheet": "6129",
+      "category": "Erosion Control",
+      "page": 58,
+      "title": "TYPICAL TEMPORARY EROSION CONTROL MEASURES (TYPE D SILT BASIN) (135 CU. YDS. CAPACITY PER ACRE OF DRAINAGE)",
+      "fingerprint": "6d891df6771392326cc9960e412d54f7683153e4918af7ce0e96bb967586d0c7",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SSF-1",
+      "sheet": "6130",
+      "category": "Erosion Control",
+      "page": 59,
+      "title": "SUPER SILT FENCE",
+      "fingerprint": "7171c5cdb16d3c9f3d18c1392537620d95083702e9a27c7f192d10735a6be894",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ECB-1",
+      "sheet": "6131",
+      "category": "Erosion Control",
+      "page": 60,
+      "title": "EROSION CONTROL BLANKET",
+      "fingerprint": "890fa799163ba42bf4cb4c249be1e7dc86edfcf5f8a2e859baf3dc774e3b9831",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "WW-1",
+      "sheet": "6181",
+      "category": "Fence",
+      "page": 61,
+      "title": "FENCE: WOVEN WIRE - TIMBER POSTS",
+      "fingerprint": "68911be4847b9c9aa0e83565c800ccb0801b796cdc926323b08574f59e59b3a3",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "WW-2",
+      "sheet": "6182",
+      "category": "Fence",
+      "page": 62,
+      "title": "FENCE: WOVEN WIRE - CONCRETE POSTS",
+      "fingerprint": "d70564facfff681e8c96e235d191078dbe0d29a9b3728054413753007e976c7c",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "WW-3",
+      "sheet": "6183",
+      "category": "Fence",
+      "page": 63,
+      "title": "FENCE: BARBED WIRE OR WOVEN WIRE - TEE POSTS",
+      "fingerprint": "475332bfd0b30a2fb2458b70fef034bbf4296250c7cd480a101841ac4fac5ee9",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "CL-1",
+      "sheet": "6184",
+      "category": "Fence",
+      "page": 64,
+      "title": "FENCE: CHAIN LINK - CLASS I",
+      "fingerprint": "708f8a718f885d18f4e1692bf7b21c8740fd2841ceb21804b2aa920cbdbe6211",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "CL-2",
+      "sheet": "6185",
+      "category": "Fence",
+      "page": 65,
+      "title": "FENCE: CHAIN LINK - CLASS II",
+      "fingerprint": "8467789908793272538767e01805951983430f94946a349985cfe485f12bb2af",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "FI-1",
+      "sheet": "6186",
+      "category": "Fence",
+      "page": 66,
+      "title": "FENCE: TYPICAL INSTALLATION AT BRIDGES (WITH GATE)",
+      "fingerprint": "db244f012a7b177f2288156e10488307e8e061373be6add6e9ea9dfdcb6797c6",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "FI-1A",
+      "sheet": "6187",
+      "category": "Fence",
+      "page": 67,
+      "title": "FENCE: TYPICAL INSTALLATION AT BRIDGES (WITHOUT GATE)",
+      "fingerprint": "1b606113645182e8c6ad6a66f9ef60af55e80d123673da82b0f1c570dc7d5759",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "FI-2",
+      "sheet": "6188",
+      "category": "Fence",
+      "page": 68,
+      "title": "FENCE: TYPICAL INSTALLATION AT DRAINAGE STRUCTURES",
+      "fingerprint": "5806f130dbd7691b5eca74fe81cc3359c2ad2c573a2ae057ad4a3fe134a603f1",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "FI-3",
+      "sheet": "6189",
+      "category": "Fence",
+      "page": 69,
+      "title": "FENCE: TYPICAL INSTALLATION AT DITCH CROSSINGS AND FENCE ENDINGS",
+      "fingerprint": "ebfd3af1f9295e50ed006c22452fb3ca2edfcd61b0fbf329fb2b890dc5a2ee67",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "AG-1",
+      "sheet": "6190",
+      "category": "Fence",
+      "page": 70,
+      "title": "FENCE: ALUMINUM OR GALVANIZED FERROUS METAL GATE",
+      "fingerprint": "a018207fcc919b0b4b6f2b22e8874f72678dff7838a2aa2600249fb16ca03b53",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "CLG-1",
+      "sheet": "6191",
+      "category": "Fence",
+      "page": 71,
+      "title": "FENCE: CHAIN LINK GATE",
+      "fingerprint": "bd01998f09e4871f50d26d6d098e11d7b7e2ef41d954eb646416089b5b99438a",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "GR-1",
+      "sheet": "6201",
+      "category": "Protective Barrier",
+      "page": 72,
+      "title": "GUARDRAIL: \"W\" BEAM (WOOD POSTS)",
+      "fingerprint": "16fcd94582eeff5f53dfa7c1e7592182c99a648a3861ac90ae9ff16a482c5b08",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "GR-1A",
+      "sheet": "6202",
+      "category": "Protective Barrier",
+      "page": 73,
+      "title": "GUARDRAIL: THRIE BEAM (WOOD POSTS)",
+      "fingerprint": "1e143df0a4938e3cebaefa746124e394e3dd1cedcb7bc197254b501360c82006",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "GR-1B",
+      "sheet": "6203",
+      "category": "Protective Barrier",
+      "page": 74,
+      "title": "GUARDRAIL: \"W\" BEAM (STEEL POSTS)",
+      "fingerprint": "887dc22148280f0d1abca1e6d1e67c2752efe0f7ce00eed0bb42117dce4ac029",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "GR-2",
+      "sheet": "6204",
+      "category": "Protective Barrier",
+      "page": 75,
+      "title": "GUARDRAIL: BRIDGE END SECTION-TYPE A & C",
+      "fingerprint": "764976f256702cc84905b10af1e98b75f112e51ea07ab3cf1bb19ee8cab57d76",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "GR-2A",
+      "sheet": "6205",
+      "category": "Protective Barrier",
+      "page": 76,
+      "title": "GUARDRAIL: BRIDGE END SECTION-TYPE E, F & G",
+      "fingerprint": "fcb283d7382589ef4a274d208ca74b3fe236b653f2be554c493ebdbee436d385",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "GR-2B",
+      "sheet": "6206",
+      "category": "Protective Barrier",
+      "page": 77,
+      "title": "GUARDRAIL: BRIDGE END SECTION-TYPE D MODIFIED",
+      "fingerprint": "e92fe432bc490d9e514270c4c76c71d2d1631bad4011d92cb14336c8a5d94ab1",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "GR-2C",
+      "sheet": "6207",
+      "category": "Protective Barrier",
+      "page": 78,
+      "title": "GUARDRAIL: BRIDGE END SECTION-TYPE H (WOOD POSTS)",
+      "fingerprint": "48eb2ce8de9a61f4a9fa2d01c85ad979a6adfeecb41fa2c0bf58c644556e75a5",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "GR-2D",
+      "sheet": "6208",
+      "category": "Protective Barrier",
+      "page": 79,
+      "title": "GUARDRAIL: BRIDGE END SECTION-TYPE H (STEEL POSTS)",
+      "fingerprint": "3c44ab769ae1f6af2a9ba3295269ae43360f62fe78f34efd2a6901274424b8a9",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "GR-2E",
+      "sheet": "6209",
+      "category": "Protective Barrier",
+      "page": 80,
+      "title": "GUARDRAIL: BRIDGE END SECTION-TYPE G MODIFIED",
+      "fingerprint": "54561024294323d3c26974af42f35564dfc366a1718070060d45e8ae3a309d15",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "GR-2F",
+      "sheet": "6210",
+      "category": "Protective Barrier",
+      "page": 81,
+      "title": "GUARDRAIL: BRIDGE END SECTION-TYPE I (WOOD POSTS) (NEW CONSTRUCTION)",
+      "fingerprint": "0397ed61e00d5c9882ef062f8fda0c310075b3ef7d01c5e2a45d984b745b0820",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "GR-2G",
+      "sheet": "6211",
+      "category": "Protective Barrier",
+      "page": 82,
+      "title": "GUARDRAIL: BRIDGE END SECTION-TYPE I (STEEL POSTS) (NEW CONSTRUCTION)",
+      "fingerprint": "efd8cfc3d4f323282a8c7908be2bb79d2d8d181b19ec9906d63e4fbfe874aa71",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "GR-3",
+      "sheet": "6212",
+      "category": "Protective Barrier",
+      "page": 83,
+      "title": "GUARDRAIL: TYPE 1 CABLE ANCHORAGE (FOUNDATION TUBE)",
+      "fingerprint": "55516074b28c950b36c141f3163b50658a5fffd2406dd6874dba8f6c97fd9422",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "GR-3A",
+      "sheet": "6213",
+      "category": "Protective Barrier",
+      "page": 84,
+      "title": "GUARDRAIL: TYPE 1 CABLE ANCHORAGE (CONCRETE FOOTING)",
+      "fingerprint": "3ce4a1b5c4230d24b679dadff5166a135ed6d9155dd4085570108be3cefe8b13",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "GR-4",
+      "sheet": "6214",
+      "category": "Protective Barrier",
+      "page": 85,
+      "title": "GUARDRAIL: TYPICAL INSTALLATION AT BRIDGE APPROACHES FOR DIVIDED HIGHWAYS",
+      "fingerprint": "c255874fa195617c3281000d1baeaf6df72e06f55e66ed9d1c514ea1249316b3",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "GR-4A",
+      "sheet": "6215",
+      "category": "Protective Barrier",
+      "page": 86,
+      "title": "GUARDRAIL: TYPICAL INSTALLATION AT BRIDGE APPROACHES FOR 2-LANE, 2-WAY HIGHWAY",
+      "fingerprint": "21e3d03818dfda26eddd56ecb14cacce2be392f8445cba5f0e8a119950de8cdf",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "GR-4B",
+      "sheet": "6216",
+      "category": "Protective Barrier",
+      "page": 87,
+      "title": "GUARDRAIL: TYPICAL INSTALLATION FOR ROADSIDE HAZARDS ON DIVIDED HIGHWAYS",
+      "fingerprint": "4a3ea2cb2ecf322064d4b82fa73d8a9e16faa7fb5bded353934e8b73c809ac7b",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "GR-4C",
+      "sheet": "6217",
+      "category": "Protective Barrier",
+      "page": 88,
+      "title": "GUARDRAIL: TYPICAL INSTALLATION FOR ROADSIDE HAZARDS ON 2-LANE, 2-WAY HIGHWAYS",
+      "fingerprint": "b8ffa457d8fdb0af6de6082ab676913bebcee0d7f629f311681d941538189a9b",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "GR-RR",
+      "sheet": "6218",
+      "category": "Protective Barrier",
+      "page": 89,
+      "title": "GUARDRAIL: RUB RAIL HARDWARE",
+      "fingerprint": "04c52761c0dbc52b04ae7a234b30b2c88156113561e2c7bf6236a4351183f75e",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "TGR-1",
+      "sheet": "6219",
+      "category": "Protective Barrier",
+      "page": 90,
+      "title": "GUARDRAIL (TEMPORARY): TYPICAL INSTALLATION AT DETOUR BRIDGE ENDS",
+      "fingerprint": "55b66f23d22b15854f22be156a6e60291b19965ba8683bad26d81ee902a58610",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "TGR-2",
+      "sheet": "6220",
+      "category": "Protective Barrier",
+      "page": 91,
+      "title": "GUARDRAIL (TEMPORARY): TYPICAL INSTALLATION AT BRIDGE END DURING CONSTRUCTION PHASES",
+      "fingerprint": "36d3e0b9927b07728185791fe1a1d2b85e5c261eb089a38b78b320404e96c074",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "GR-HW",
+      "sheet": "6221",
+      "category": "Protective Barrier",
+      "page": 92,
+      "title": "GUARDRAIL: MISCELLANEOUS HARDWARE",
+      "fingerprint": "ba995ea76ed5db31092400fb368926c39215e2ada60d77cb001a50db6b0f32e2",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "CMB-1A",
+      "sheet": "6222",
+      "category": "Protective Barrier",
+      "page": 93,
+      "title": "CONCRETE MEDIAN BARRIER (F SHAPE) (1 OF 2)",
+      "fingerprint": "bf24f63657c3b8ce20eadf404ea0f8b7bf5f24d8cb6172e38f7326151c62b9c3",
+      "width": 2491.199951171875,
+      "height": 1584.0,
+      "group": "CONCRETE MEDIAN BARRIER (F SHAPE)"
+    },
+    {
+      "id": "CMB-1B",
+      "sheet": "6223",
+      "category": "Protective Barrier",
+      "page": 94,
+      "title": "CONCRETE MEDIAN BARRIER (F SHAPE) (2 OF 2)",
+      "fingerprint": "50b70a251cef5d131417adffedaec14d2087658d7703ee0879efb05e92e0e6b0",
+      "width": 2491.199951171875,
+      "height": 1584.0,
+      "group": "CONCRETE MEDIAN BARRIER (F SHAPE)"
+    },
+    {
+      "id": "CMB-2A",
+      "sheet": "6224",
+      "category": "Protective Barrier",
+      "page": 95,
+      "title": "CONCRETE MEDIAN BARRIER (SLOPE FACE) (1 OF 2)",
+      "fingerprint": "ed1b1179e96859ecf15e9154f2d709921d27c2ea5c92030ac54e802002d1c896",
+      "width": 2491.199951171875,
+      "height": 1584.0,
+      "group": "CONCRETE MEDIAN BARRIER (SLOPE FACE)"
+    },
+    {
+      "id": "CMB-2B",
+      "sheet": "6225",
+      "category": "Protective Barrier",
+      "page": 96,
+      "title": "CONCRETE MEDIAN BARRIER (SLOPE FACE) (2 OF 2)",
+      "fingerprint": "5995bdf577ecda82e03091073fdd32876fb3741b609180b1d60c3680516d6e74",
+      "width": 2491.199951171875,
+      "height": 1584.0,
+      "group": "CONCRETE MEDIAN BARRIER (SLOPE FACE)"
+    },
+    {
+      "id": "CMB-3",
+      "sheet": "6226",
+      "category": "Protective Barrier",
+      "page": 97,
+      "title": "CONCRETE MEDIAN BARRIER (PRECAST) (32\")",
+      "fingerprint": "764a429b742dffa195a677465a049b5519f261075fe7b8aa55f51bb78c244b89",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "RRS-1",
+      "sheet": "6227",
+      "category": "Protective Barrier",
+      "page": 98,
+      "title": "PROTECTIVE DEVICE FOR RAILROAD SIGNAL",
+      "fingerprint": "ca344e2500fa27829dd6ca50c9aee426cf198954fe3c56081405da639cca3176",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "PPD-A1",
+      "sheet": "6228",
+      "category": "Protective Barrier",
+      "page": 99,
+      "title": "3'-6\" PIER PROTECTION DETAILS (1 OF 3)",
+      "fingerprint": "1379251cdc2f6ceadaee47af56b429504382ffe3087097abca633bbdedb374d2",
+      "width": 2491.199951171875,
+      "height": 1584.0,
+      "group": "3'-6\" PIER PROTECTION DETAILS"
+    },
+    {
+      "id": "PPD-A2",
+      "sheet": "6229",
+      "category": "Protective Barrier",
+      "page": 100,
+      "title": "3'-6\" PIER PROTECTION DETAILS (2 OF 3)",
+      "fingerprint": "eaba492100e94666774af4bd1b9a0b1ba6c1a06ad53105ed445bc41b9eda66aa",
+      "width": 2491.199951171875,
+      "height": 1584.0,
+      "group": "3'-6\" PIER PROTECTION DETAILS"
+    },
+    {
+      "id": "PPD-A3",
+      "sheet": "6230",
+      "category": "Protective Barrier",
+      "page": 101,
+      "title": "3'-6\" PIER PROTECTION DETAILS (3 OF 3)",
+      "fingerprint": "d9e419bdc801d122e27d2dbf09b05f565cd64faf00efa34a8395ee0d4317512e",
+      "width": 2491.199951171875,
+      "height": 1584.0,
+      "group": "3'-6\" PIER PROTECTION DETAILS"
+    },
+    {
+      "id": "PPD-B1",
+      "sheet": "6231",
+      "category": "Protective Barrier",
+      "page": 102,
+      "title": "4'-6\" PIER PROTECTION DETAILS (1 OF 3)",
+      "fingerprint": "3c4ea83152898c9444b39ecc4695e65a2f0c8f26fbee9931af7f8b521ceaf5c0",
+      "width": 2491.199951171875,
+      "height": 1584.0,
+      "group": "4'-6\" PIER PROTECTION DETAILS"
+    },
+    {
+      "id": "PPD-B2",
+      "sheet": "6232",
+      "category": "Protective Barrier",
+      "page": 103,
+      "title": "4'-6\" PIER PROTECTION DETAILS (2 OF 3)",
+      "fingerprint": "6f59df11d2de4739bb0a8fcc0e527fab42b4a537e38c7c0dabe4cf0a74137e0e",
+      "width": 2491.199951171875,
+      "height": 1584.0,
+      "group": "4'-6\" PIER PROTECTION DETAILS"
+    },
+    {
+      "id": "PPD-B3",
+      "sheet": "6233",
+      "category": "Protective Barrier",
+      "page": 104,
+      "title": "4'-6\" PIER PROTECTION DETAILS (3 OF 3)",
+      "fingerprint": "c0fba0ed9754566e557f691212cd4fdda51020df2015d0e8861dd9ec151641cf",
+      "width": 2491.199951171875,
+      "height": 1584.0,
+      "group": "4'-6\" PIER PROTECTION DETAILS"
+    },
+    {
+      "id": "SN-1",
+      "sheet": "6301",
+      "category": "Signing",
+      "page": 105,
+      "title": "STANDARD DIRECTIONAL (GUIDE) SIGNS",
+      "fingerprint": "879a57e77f340959abc0a0a13b91053e719eefecdf8360ab802f95e0ce69458e",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "SN-2",
+      "sheet": "6302",
+      "category": "Signing",
+      "page": 106,
+      "title": "ROUTE SHIELDS AND \"EXIT ONLY\" PANELS",
+      "fingerprint": "fdd1f04997abee150eb198a0e4f210fddde798a2cbed262f2c47659b0b7403a9",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "SN-3",
+      "sheet": "6303",
+      "category": "Signing",
+      "page": 107,
+      "title": "STANDARD ROADSIDE SIGNS",
+      "fingerprint": "c343ce9475f5d806ba42adf463c3bf68fe994bd90358b601bf20d3160301d28f",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "SN-3A",
+      "sheet": "6304",
+      "category": "Signing",
+      "page": 108,
+      "title": "STANDARD ROADSIDE SIGNS",
+      "fingerprint": "d16c034d5a57956e372743180344dd903d4bb480a699b9b65cae307494d5348b",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "SN-3B",
+      "sheet": "6305",
+      "category": "Signing",
+      "page": 109,
+      "title": "STANDARD ROADSIDE SIGNS",
+      "fingerprint": "843895595fb4e2604ef3454abba6c401754bcddca4f02fcfb9a665bbf39091a7",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "SN-4",
+      "sheet": "6306",
+      "category": "Signing",
+      "page": 110,
+      "title": "STANDARD ROADSIDE SIGN ASSEMBLY AND INSTALLATION",
+      "fingerprint": "01dbd4997b1042da1eae96cf73136d5f3fb3ba6975e3dc0fe33a4c73d77a685a",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "SN-4A",
+      "sheet": "6307",
+      "category": "Signing",
+      "page": 111,
+      "title": "STANDARD ROADSIDE SIGN ASSEMBLY AND INSTALLATION",
+      "fingerprint": "02e187220729d4cfba9ea4edac3edffc78b8522675a0c1089f513c3633189399",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SN-4B",
+      "sheet": "6308",
+      "category": "Signing",
+      "page": 112,
+      "title": "STANDARD ROADSIDE SIGN ASSEMBLY AND INSTALLATION",
+      "fingerprint": "e06b2c174eb1f5c59eb367c2018764985f18e91bab1a20fa32009fae94b97506",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SN-5",
+      "sheet": "6309",
+      "category": "Signing",
+      "page": 113,
+      "title": "TYPICAL INSTALLATION OF GROUND MOUNTED DIRECTIONAL SIGNS",
+      "fingerprint": "7b4d0966e212c56e52492102e88781b404fbebcb923bfdef7c73bb8017eab2b3",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "SN-6",
+      "sheet": "6310",
+      "category": "Signing",
+      "page": 114,
+      "title": "BREAKAWAY SIGN SUPPORTS",
+      "fingerprint": "44a9205647576c0474daeddee2e7d5553d849d093098bd510ecc8bdad848ecb0",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SN-6A",
+      "sheet": "6311",
+      "category": "Signing",
+      "page": 115,
+      "title": "BREAKAWAY SIGN SUPPORTS",
+      "fingerprint": "1f87c29335f468f81295332b92635668a1c57ab0f13d2851b079601bcf73e6aa",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SN-6B",
+      "sheet": "6312",
+      "category": "Signing",
+      "page": 116,
+      "title": "BREAKAWAY SIGN SUPPORTS",
+      "fingerprint": "e4a5c30ad36dc388e7f33ab51eb7b0c5106b3b80183ce633147c6601527faa00",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SN-7",
+      "sheet": "6313",
+      "category": "Signing",
+      "page": 117,
+      "title": "SIGN FACE CONST. AND ATTACHMENT OF GROUND MOUNTED DIRECTIONAL SIGNS TO STEEL BEAMS (EXTRUDED ALUMINUM PANELS)",
+      "fingerprint": "39d74d5ac216d5ae05e5a7e6039188bf99632c172c660a5733731d45b35c8de2",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SN-8",
+      "sheet": "6314",
+      "category": "Signing",
+      "page": 118,
+      "title": "TYPICAL INSTALLATION AND DETAILS OF DELINEATORS AND DISTANCE REFERENCE SIGNS",
+      "fingerprint": "031ee3d97e29518e1a81bc088b079d3c629128c87b2cf4fb1c4b349758cd94ee",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "SN-8A",
+      "sheet": "6315",
+      "category": "Signing",
+      "page": 119,
+      "title": "TYPICAL INSTALLATION OF DELINEATORS",
+      "fingerprint": "00f0b4ba42dadfe1ab06c757bc2a355100f955ca20990caa6a074fad21884991",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "SN-8B",
+      "sheet": "6316",
+      "category": "Signing",
+      "page": 120,
+      "title": "TYPICAL CROSSOVER DELINEATION",
+      "fingerprint": "35b7637ac68b9037504e57367fa9cdd424d039eec4a90769d918e61811174c8e",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "SN-8C",
+      "sheet": "6317",
+      "category": "Signing",
+      "page": 121,
+      "title": "TYPICAL GUARDRAIL DELINEATION",
+      "fingerprint": "8e2df589cba47ec9bea9409d3957827af75e4f3ae92d22e76a21ef3a03b0fc5a",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "SN-9",
+      "sheet": "6318",
+      "category": "Signing",
+      "page": 122,
+      "title": "SIGNING DETAILS FOR BRIDGE APPROACHES",
+      "fingerprint": "792c0f160f05a647f6cd34245d3db8ad4427b9f92ede949d666b7bf9246eb2ad",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "TCP-1",
+      "sheet": "6351",
+      "category": "Traffic Control Plans",
+      "page": 123,
+      "title": "TRAFFIC CONTROL PLAN WITH FLAGGER (ONE-LANE CLOSURE OF TWO-WAY TRAFFIC)",
+      "fingerprint": "bb417977b9411ccf21b2037cc2ba22c0fddfc2425337e3a602c2a1fd7799187f",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "TCP-2",
+      "sheet": "6352",
+      "category": "Traffic Control Plans",
+      "page": 124,
+      "title": "TRAFFIC CONTROL PLAN FOR POSTED SPEED LIMIT LESS THAN 65 MPH (4-LANE: MEDIAN LANE OR OUTSIDE LANE CLOSURE) (WORK DAY ONLY)",
+      "fingerprint": "52dca5ea35c88ef610b720fbe95ada2827830b4e818af61b51cd86ca2dfb19c0",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "TCP-3",
+      "sheet": "6353",
+      "category": "Traffic Control Plans",
+      "page": 125,
+      "title": "TRAFFIC CONTROL PLAN FOR POSTED SPEED LIMIT LESS THAN 65 MPH (4-LANE: MEDIAN LANE OR OUTSIDE LANE CLOSURE) (EXTENDED PERIOD)",
+      "fingerprint": "7e6e033f39b51f55631b65cf2cd6fac02bdbc042088d0674ca03b7eb84a3d881",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "TCP-4",
+      "sheet": "6354",
+      "category": "Traffic Control Plans",
+      "page": 126,
+      "title": "TRAFFIC CONTROL PLAN FOR POSTED SPEED LIMIT OF 65 OR 70 MPH (INTERSTATES AND OTHER 4-LANE DIVIDED HIGHWAYS) (MEDIAN LANE OR OUTSIDE LANE CLOSURE) (EXTENDED PERIOD)",
+      "fingerprint": "478f8c306e9ee04222993c29bf39a127eae30f9e7c236bd5a2a9b56c4928160d",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "TCP-5",
+      "sheet": "6355",
+      "category": "Traffic Control Plans",
+      "page": 127,
+      "title": "TRAFFIC CONTROL PLAN FOR POSTED SPEED LIMIT OF 65 OR 70 MPH (INTERSTATES AND OTHER 4-LANE DIVIDED HIGHWAYS ) (MEDIAN LANE OR OUTSIDE LANE CLOSURE) (WORK DAY ONLY)",
+      "fingerprint": "0dbc264517b7f1ec1e375c339f307220d9693f0886120f216d7f9a1dd9a70e70",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "TCP-6",
+      "sheet": "6356",
+      "category": "Traffic Control Plans",
+      "page": 128,
+      "title": "SHORT DURATION CLOSING OF TWO-LANE TWO-WAY HIGHWAYS",
+      "fingerprint": "5fc47a9b4f7cfdf0076113d410c5e82b6736d3f270949dfb2e616e5a1f0ee88d",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "TCP-7",
+      "sheet": "6357",
+      "category": "Traffic Control Plans",
+      "page": 129,
+      "title": "SHORT DURATION CLOSING OF DIVIDED HIGHWAYS",
+      "fingerprint": "c34d8574826b8b2624d9ad874f293c9a79959c0ba2f08da050ecd03fc566cb82",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "TCP-8",
+      "sheet": "6358",
+      "category": "Traffic Control Plans",
+      "page": 130,
+      "title": "HIGHWAY SIGN AND BARRICADE DETAILS FOR CONSTRUCTION PROJECTS",
+      "fingerprint": "61f6ca471ab8cf9e6470fd7cf98b46edd61abf266d2ba3e14d075653ce677f15",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "TCP-9",
+      "sheet": "6359",
+      "category": "Traffic Control Plans",
+      "page": 131,
+      "title": "TRAFFIC CONTROL PLAN MOBILE OPERATIONS MULTILANE ROADS AND TWO-LANE ROADS",
+      "fingerprint": "19f64f309263e74ee62ed1d6fc357a6831cb511f4eaaef46d803cc5cfe2c80e0",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "TCP-10",
+      "sheet": "6360",
+      "category": "Traffic Control Plans",
+      "page": 132,
+      "title": "DETAILS OF OUTSIDE LANE CLOSURE AT EXIT AND ENTRANCE RAMPS",
+      "fingerprint": "1de2d00ab97562d96c01babe96f4f01e6ad773d018c7cb527beec921cccba59e",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "TCP-11",
+      "sheet": "6361",
+      "category": "Traffic Control Plans",
+      "page": 133,
+      "title": "TRAFFIC CONTROL PLAN FOR TEMPORARY CONSTRUCTION CROSSOVER (WORK DAY ONLY)",
+      "fingerprint": "930bc293f55935f86fe5a2356f7986851ae6c26c60b37cd9e220bbae27c1edeb",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "TCP-12",
+      "sheet": "6362",
+      "category": "Traffic Control Plans",
+      "page": 134,
+      "title": "TRAFFIC CONTROL PLAN: UNEVEN PAVEMENT DETAILS",
+      "fingerprint": "7fadaa7071a1a7d6a4e1ee11896e4638832d383a10529af16d793be5395de128",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "TCP-13",
+      "sheet": "6363",
+      "category": "Traffic Control Plans",
+      "page": 135,
+      "title": "TEMPORARY STRIPING FOR TRAFFIC CONTROL 2-LANE AND 4-LANE DIVIDED HIGHWAYS",
+      "fingerprint": "bd5106bf1bfa17ac7f63f4bdf12c387491c3a787894d54f968a91cfd9708bb43",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "TCP-14",
+      "sheet": "6364",
+      "category": "Traffic Control Plans",
+      "page": 136,
+      "title": "TEMPORARY STRIPING FOR TRAFFIC CONTROL 4-LANE AND 5-LANE UNDIVIDED ROADWAYS",
+      "fingerprint": "325999888841af73e92799ac559960d7b67e070caf9ef2518d833d874edc1ff2",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "TCP-15",
+      "sheet": "6365",
+      "category": "Traffic Control Plans",
+      "page": 137,
+      "title": "LOCATION OF R16-3 SIGNS (SPEEDING FINES DOUBLED)",
+      "fingerprint": "5590a8a35197501a1759e6d6c268e431eeec80c1c6ad7440a8bd53c4563b324e",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "TCP-16",
+      "sheet": "6366",
+      "category": "Traffic Control Plans",
+      "page": 138,
+      "title": "TRAFFIC CONTROL DETAILS DRUM PLACEMENT AND SHOULDER CLOSURE",
+      "fingerprint": "bb0c98165a77d63d6644e06f5385560aafb8096d3bca78faf08ba309d8b8e22f",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "TCP-17",
+      "sheet": "6367",
+      "category": "Traffic Control Plans",
+      "page": 139,
+      "title": "PERMANENT BARRICADE WITH BERM",
+      "fingerprint": "e0a6bc1f1d4d33afba1984d4e4947676662faf7ed2a9cbe48482dec6dd7d530e",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "RW-1",
+      "sheet": "6401",
+      "category": "Miscellaneous Roadway Details",
+      "page": 140,
+      "title": "RIGHT-OF-WAY MARKER",
+      "fingerprint": "92346077ada0193baad9cbc904cc8e6a94301a6869ea3f812bdc179ab0488b72",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "RW-1L",
+      "sheet": "6402",
+      "category": "Miscellaneous Roadway Details",
+      "page": 141,
+      "title": "RIGHT-OF-WAY MARKER FOR USE ON LPA PROJECTS",
+      "fingerprint": "b030337e0003cb0b8a6b26801f13063ebb2a6b1cab29ad0861df4051587202c5",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "RD-1",
+      "sheet": "6403",
+      "category": "Miscellaneous Roadway Details",
+      "page": 142,
+      "title": "RURAL DRIVEWAYS",
+      "fingerprint": "7b25779f8673c219dbc1a384d6ac65a09f102230fad2fa1f76ed69e0a34f4e80",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "GT-1",
+      "sheet": "6404",
+      "category": "Miscellaneous Roadway Details",
+      "page": 143,
+      "title": "TYPICAL GRADING TRANSITION BETWEEN CUTS & FILLS",
+      "fingerprint": "0bfbc20a5ba9fb3ac52c6e5dd32e171f753bfe5de3e5d8b1730e900bcdecb550",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SF-1",
+      "sheet": "6405",
+      "category": "Miscellaneous Roadway Details",
+      "page": 144,
+      "title": "SIGHT FLARE",
+      "fingerprint": "f575272b9c2546569801babc4e5a3b129feb73741356af5abfaf4261a6c7d4e6",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "ED-1",
+      "sheet": "6406",
+      "category": "Miscellaneous Roadway Details",
+      "page": 145,
+      "title": "GUIDE BANK (SPUR DIKE): EARTH",
+      "fingerprint": "5f7f0541e886d06cb523deef11106ab1460bd8de7034ad23522565f0bde335ab",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SE-1",
+      "sheet": "6407",
+      "category": "Miscellaneous Roadway Details",
+      "page": 146,
+      "title": "SUPERELEVATION TRANSITION FOR LOCAL FACILITIES (V < 45 mph)",
+      "fingerprint": "8b07e0b7b435126818939dd79c2d3f25fbe02153ad0ff58f6b02388216e0e95b",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SE-2A",
+      "sheet": "6408",
+      "category": "Miscellaneous Roadway Details",
+      "page": 147,
+      "title": "SUPERELEVATION - CASE I (ROTATION ABOUT CENTERLINE)",
+      "fingerprint": "73742f44ec477f441cfb9f8aeba519018de939150f0969438d48dcb60289704c",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SE-2B",
+      "sheet": "6409",
+      "category": "Miscellaneous Roadway Details",
+      "page": 148,
+      "title": "SUPERELEVATION - CASE II (ROTATION ABOUT EDGE OF TRAVELED WAY)",
+      "fingerprint": "2a0a196ac6aa2df066efb1d4e389685631ce0031fa81ce647002ce429f0f1d2d",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SE-2C",
+      "sheet": "6410",
+      "category": "Miscellaneous Roadway Details",
+      "page": 149,
+      "title": "SUPERELEVATION TRANSITION - CASE I (ROTATION ABOUT CENTERLINE) (URBAN FACILITY, V = 50 MPH)",
+      "fingerprint": "1596803179eabd650ac80f0086c8ca0ebd3cf5f9c983e6ccf6b82e339b81b097",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SE-2D",
+      "sheet": "6411",
+      "category": "Miscellaneous Roadway Details",
+      "page": 150,
+      "title": "SUPERELEVATION TRANSITION - CASE II (ROTATION ABOUT EDGE OF TRAVELED WAY) (URBAN FACILITY, V = 50 MPH)",
+      "fingerprint": "0b405540a3db9a54f1e51a9bb227e7521a73f94f913400f46436b6d3378ccb70",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SE-2E",
+      "sheet": "6412",
+      "category": "Miscellaneous Roadway Details",
+      "page": 151,
+      "title": "SUPERELEVATION TRANSITION - ROTATION ABOUT CENTERLINE (URBAN FACILITY, V < 45 MPH)",
+      "fingerprint": "2db338ef0c639995d10ee5e92368270d4d3b9ac2eb85064f93d25c7ee08b51fe",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SE-3A",
+      "sheet": "6413",
+      "category": "Miscellaneous Roadway Details",
+      "page": 152,
+      "title": "SUPERELEVATION RUNOFF - CASE I (ROTATION ABOUT THE CENTERLINE)",
+      "fingerprint": "421a6edf066c5b5856ef2b227b266a635d8a27bdc8f00138f5204967489e25d9",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SE-3B",
+      "sheet": "6414",
+      "category": "Miscellaneous Roadway Details",
+      "page": 153,
+      "title": "SUPERELEVATION RUNOFF - CASE II (ROTATION ABOUT THE EDGE OF TRAVELED WAY)",
+      "fingerprint": "6c6a9eb93aa7c7dc2b9db73bc4da0f150167c3291ef899561d5010629ce701b6",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "IR-1",
+      "sheet": "6415",
+      "category": "Miscellaneous Roadway Details",
+      "page": 154,
+      "title": "INTERCHANGE DESIGN FOR HIGH-SPEED TAPERED EXIT RAMP",
+      "fingerprint": "14769059c1b1b6a2acbd212f437f0aaf5829daf32cd9b5f1536013938c289352",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "IR-1A",
+      "sheet": "6416",
+      "category": "Miscellaneous Roadway Details",
+      "page": 155,
+      "title": "INTERCHANGE DESIGN FOR HIGH-SPEED PARALLEL EXIT RAMP",
+      "fingerprint": "16821e3b702e2e92ef0e0e949af0af7a9c6c761aeed49edb2489ad158d580b12",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "IR-2",
+      "sheet": "6417",
+      "category": "Miscellaneous Roadway Details",
+      "page": 156,
+      "title": "INTERCHANGE DESIGN FOR LOOP ENTRANCE RAMP",
+      "fingerprint": "a5bb0eed4726fe1a0baecc7026892a2fddd4cc229b92ae0ae19bc049255bff92",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "IR-2A",
+      "sheet": "6418",
+      "category": "Miscellaneous Roadway Details",
+      "page": 157,
+      "title": "INTERCHANGE DESIGN FOR HIGH-SPEED PARALLEL ENTRANCE RAMP",
+      "fingerprint": "e45161a3e1d2ef6424b85ea16fb5ffc64742bade1f6dca03706cdf18fa41f7b8",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SD-1",
+      "sheet": "6419",
+      "category": "Miscellaneous Roadway Details",
+      "page": 158,
+      "title": "DRIVEWAYS, CURB & GUTTER, & SIDEWALK",
+      "fingerprint": "74991808cce5c3c26f5a6a59e8e394a0b8c9fad74366da6ca196b4650fb9ae65",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SD-2",
+      "sheet": "6420",
+      "category": "Miscellaneous Roadway Details",
+      "page": 159,
+      "title": "DRIVEWAYS, INTEGRAL CURB, & SIDEWALK",
+      "fingerprint": "6a9f8382a28984a8f87227095dfe5f12da0f3fd6994b33ad6c7c8844cffdccff",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "CR-1",
+      "sheet": "6421",
+      "category": "Miscellaneous Roadway Details",
+      "page": 160,
+      "title": "CURB RAMPS: RAMP DESIGN ELEMENTS",
+      "fingerprint": "c882af1484cb6de450c34c9f1359fd84c8eadc11dd89b6cfb50d7dd67c3bf9de",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "CR-2",
+      "sheet": "6422",
+      "category": "Miscellaneous Roadway Details",
+      "page": 161,
+      "title": "CURB RAMPS: PLACEMENT DETAILS",
+      "fingerprint": "d8bc34fbf256897f6b65bca3b59f91ee2aede4c563c8244e12f36afade4201e2",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "CR-3",
+      "sheet": "6423",
+      "category": "Miscellaneous Roadway Details",
+      "page": 162,
+      "title": "CURB RAMPS: PLACEMENT DETAILS",
+      "fingerprint": "f7c5be707180290b5ace3c94442e9ed28fd13cedd4c70dca702b8cdfe29fcef7",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "CR-4",
+      "sheet": "6424",
+      "category": "Miscellaneous Roadway Details",
+      "page": 163,
+      "title": "CURB RAMPS: DETECTABLE WARNING DETAILS",
+      "fingerprint": "63219ed9f8092972ff9e926c24106e9e8d2851aee5973f097a99de75ab6461c1",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "MDS-1",
+      "sheet": "6425",
+      "category": "Miscellaneous Roadway Details",
+      "page": 164,
+      "title": "MISCELLANEOUS DETAIL SHEET 1. STACKED PIPE JOINTS 2. EXCAVATION AT GRADE POINTS",
+      "fingerprint": "7baff59e5717b987453f7557e80a8026cbc4e160ede82657fbbfb4f21dfbb25d",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "PF-1",
+      "sheet": "6426",
+      "category": "Miscellaneous Roadway Details",
+      "page": 165,
+      "title": "DETAILS OF PAVED FLUMES",
+      "fingerprint": "f28e70ae51a43a2be4aacbc8501fcdda6bc1726502dc776c415e3dcc0b376889",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "EXO-1",
+      "sheet": "6427",
+      "category": "Miscellaneous Roadway Details",
+      "page": 166,
+      "title": "EMERGENCY/OFFICIAL USE MEDIAN CROSSOVERS",
+      "fingerprint": "a575e9fcbfb2239d00dffef28332a663819f508146181668567b9b62c53cab17",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "PD-1",
+      "sheet": "6428",
+      "category": "Miscellaneous Roadway Details",
+      "page": 167,
+      "title": "TYPICAL PLANTING DETAILS FOR TREES & SHRUBS",
+      "fingerprint": "103a391ff5dffdb7b92a7d2331d48f0fdca3cfb4da35fec469ec7d74b0d055a1",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "PI-1",
+      "sheet": "6501",
+      "category": "Drainage",
+      "page": 168,
+      "title": "PIPE CULVERT INSTALLATION",
+      "fingerprint": "99a7316d8f9a910556c77bad3f7379d5cee4b8cc5280fc88d7ce9f1425c51473",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "PI-2",
+      "sheet": "6502",
+      "category": "Drainage",
+      "page": 169,
+      "title": "FLEXIBLE PIPE CULVERT INSTALLATION",
+      "fingerprint": "49d9b6b50ebeb33e3b29d2e012694871a2cb9582e3b9cb4e32d6d829323b9122",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "PC-1",
+      "sheet": "6503",
+      "category": "Drainage",
+      "page": 170,
+      "title": "CONCRETE PIPE COLLAR",
+      "fingerprint": "e3c280a905e8f6f0b9cf72d9ce422bb9e2023036200553cf8448ea0b63206c56",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "JB-1",
+      "sheet": "6504",
+      "category": "Drainage",
+      "page": 171,
+      "title": "JUNCTION BOX FOR PIPE CULVERTS",
+      "fingerprint": "06bbb5f54d45529e95aaf83db7631586fcbb94214289e9ff56c3320f7f8ec2dc",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "JB-1A",
+      "sheet": "6505",
+      "category": "Drainage",
+      "page": 172,
+      "title": "JUNCTION BOX FOR BOX CULVERT TO CONCRETE ARCH PIPE",
+      "fingerprint": "79b55e41b39d5624afb8a841e0fd11dd142e0eeaecc5827864b26bfd8353ed7d",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "JB-2",
+      "sheet": "6506",
+      "category": "Drainage",
+      "page": 173,
+      "title": "JUNCTION BOX TYPE 2 FOR TRAFFIC LOAD (MAXIMUM \"W\" = 9.3 FT.)",
+      "fingerprint": "1d32c0513469f26c747f1d844d39628de92259d11b8eb1880ee838f6b6a25560",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "BC-1",
+      "sheet": "6507",
+      "category": "Drainage",
+      "page": 174,
+      "title": "BRANCH CONNECTIONS",
+      "fingerprint": "11958b9995fba10e36a7e66e77d368627fd4f7685245ca740300cc90c3097990",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "MI-1",
+      "sheet": "6508",
+      "category": "Drainage",
+      "page": 175,
+      "title": "TYPE I MEDIAN INLET (24\" PIPE AND UNDER)",
+      "fingerprint": "b1f2b832cf85b894b9a34d60d9cfcc5809c59e8f10e0bc4f4d22f809f9feed20",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "MI-1A",
+      "sheet": "6509",
+      "category": "Drainage",
+      "page": 176,
+      "title": "TYPE I MEDIAN INLET (29\" TO 51\" PIPE)",
+      "fingerprint": "db187cdf17324c3e3e4488e716d9dbc540f3caaafb1a616e6a71886b1f400590",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "MI-1B",
+      "sheet": "6510",
+      "category": "Drainage",
+      "page": 177,
+      "title": "TYPE I MEDIAN INLET (OVER 51\" PIPE)",
+      "fingerprint": "6c7fcdf5eb920e325ddf303367c608736fcddac5ea8c5a1755d1ceb9210c2be4",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "MI-2",
+      "sheet": "6511",
+      "category": "Drainage",
+      "page": 178,
+      "title": "TYPE II MEDIAN INLET (51\" PIPE AND UNDER)",
+      "fingerprint": "ef71ffd98b4234059ed4d6e136b4b0f083a6d8458e512bab4672895665672865",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "MI-2A",
+      "sheet": "6512",
+      "category": "Drainage",
+      "page": 179,
+      "title": "TYPE II MEDIAN INLET (OVER 51\" PIPE)",
+      "fingerprint": "c252acc8bed9f7eef5c9a57080beb26fe5ba0ce6396a59ea70b03c4a7ee1e00e",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "MI-3",
+      "sheet": "6513",
+      "category": "Drainage",
+      "page": 180,
+      "title": "MEDIAN INLET FOR BOX CULVERTS (TYPE I & II)",
+      "fingerprint": "a1106611d3ff6218a1e68fc919b64f338491bd6aba3b75afc3d4655a31960727",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "MI-4",
+      "sheet": "6514",
+      "category": "Drainage",
+      "page": 181,
+      "title": "MEDIAN INLET (FLUSH WITH FORESLOPE)",
+      "fingerprint": "bd91ba9457942495632bfe32565bb6ae0aac145d49039acebf6ae56a4ee59130",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "MI-4A",
+      "sheet": "6515",
+      "category": "Drainage",
+      "page": 182,
+      "title": "MEDIAN INLET (FLUSH WITH DITCH PLUG)",
+      "fingerprint": "31e380d90df0789eb3e76b3c12b87e9f74d339a7842b0c4d067d65d8f6392bae",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "IG-1",
+      "sheet": "6516",
+      "category": "Drainage",
+      "page": 183,
+      "title": "DETAILS OF GRATES FOR MEDIAN INLETS",
+      "fingerprint": "7236b5634b31fe64aaab25f9ac2d2656ec694efbfffb415be90069ed665cc063",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "IG-2",
+      "sheet": "6517",
+      "category": "Drainage",
+      "page": 184,
+      "title": "DETAILS OF GRATES FOR GUTTER INLETS",
+      "fingerprint": "793dd4bcae77d92a4ee2ac34d7d55e781759ce63b14538cb94db6e0001dd7664",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "GI-1",
+      "sheet": "6518",
+      "category": "Drainage",
+      "page": 185,
+      "title": "GUTTER INLET FOR TYPE 2 CURB (OUTLET 90\u00b0 TO ROADWAY)",
+      "fingerprint": "5c4bbf7bbb6caf9ae5a4b6ff04da1d8cbb541fb734d7917c13b93bd5b9d133c1",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "GI-1A",
+      "sheet": "6519",
+      "category": "Drainage",
+      "page": 186,
+      "title": "GUTTER INLET FOR TYPE 2 CURB (STORM SEWER ALONG ROADWAY)",
+      "fingerprint": "2ac08c58e98df9cc6bf26738b68ef321ef9b2d97d1842f493cf6abed9d891c84",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "PA-1",
+      "sheet": "6520",
+      "category": "Drainage",
+      "page": 187,
+      "title": "PAVED INLET APRON AND MEDIAN DITCH PLUG",
+      "fingerprint": "4bc0b4b179a7272a2f831f1befe34424e955f3ad41d81e6ec7a00e303900cfa4",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SS-1",
+      "sheet": "6521",
+      "category": "Drainage",
+      "page": 188,
+      "title": "STORM SEWER INLET - TYPE SS-1",
+      "fingerprint": "cb6ad2d0a0941dcae34bf524d65e22d437030d4aa3ca4abb89e953758fcd7e35",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SS-1A",
+      "sheet": "6522",
+      "category": "Drainage",
+      "page": 189,
+      "title": "STORM SEWER INLET - TYPE SS-1A (ADJACENT TO SIDEWALK)",
+      "fingerprint": "6506f40d754822f9397bcb0d8672fd5e17fdcfcf1ec246c745487fbe17293e18",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SS-1B",
+      "sheet": "6523",
+      "category": "Drainage",
+      "page": 190,
+      "title": "STORM SEWER INLET - TYPE SS-1B (LONGITUDINAL DRAINAGE)",
+      "fingerprint": "dea7d58f67c4e8336acc9b72385e6f0ebe818356dc1250661e1047e552256c51",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SS-2",
+      "sheet": "6524",
+      "category": "Drainage",
+      "page": 191,
+      "title": "STORM SEWER INLET - TYPE SS-2",
+      "fingerprint": "93bf5b74a3d1f0cdbabffdb1e0a3b7d45026dddd2a706804dbda8c712ea52ef5",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SS-3",
+      "sheet": "6525",
+      "category": "Drainage",
+      "page": 192,
+      "title": "STORM SEWER INLET - TYPE SS-3",
+      "fingerprint": "6ac08b30ac9ecbb4192a6f55e39d1b6fcca4026f7a4797d797fbea53ddb51e5d",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "SS-4",
+      "sheet": "6526",
+      "category": "Drainage",
+      "page": 193,
+      "title": "STORM SEWER INLET - TYPE SS-4 (HEADER CURB)",
+      "fingerprint": "e69733586e1a814efd443e9aecc234ccba0ede87d16a64459f1c45afdbf6691e",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "B-9",
+      "sheet": "6527",
+      "category": "Drainage",
+      "page": 194,
+      "title": "DROP INLET AND GRATE DETAILS FOR PIPE AND BOX CULVERTS",
+      "fingerprint": "db8cb936efd20755544d720d5563eea0df08fa72af44d270867ee65821f585d2",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "MH-1",
+      "sheet": "6528",
+      "category": "Drainage",
+      "page": 195,
+      "title": "STORM SEWER STRUCTURE - PRECAST MANHOLE",
+      "fingerprint": "b81733401099e8bf2263ce183177f6ec52729a45bfb1735fe7261f99f13b34fa",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "SAG-1",
+      "sheet": "6529",
+      "category": "Drainage",
+      "page": 196,
+      "title": "SMALL ANIMAL GUARD AND UNDERDRAIN MARKER",
+      "fingerprint": "76724a9e9e155312efa4adc806f115b63e2eaf876bbd9ad2dee1b880dd536740",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "FE-1",
+      "sheet": "6530",
+      "category": "Drainage",
+      "page": 197,
+      "title": "FLARED END SECTION FOR CONCRETE PIPE",
+      "fingerprint": "2d5c7a2f09ff0b032621ddab73f08e5a3accde42f8dd662f9f612c682e88ff2d",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "FE-1A",
+      "sheet": "6531",
+      "category": "Drainage",
+      "page": 198,
+      "title": "FLARED END SECTION FOR CONCRETE ARCH PIPE",
+      "fingerprint": "a231b5a476eac67e9427e84f5affaf74394238d79bc984a89b1f27bcd4619f2b",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "FE-1B",
+      "sheet": "6532",
+      "category": "Drainage",
+      "page": 199,
+      "title": "FLARED END SECTION FOR METAL PIPE & ARCH PIPE",
+      "fingerprint": "97eb3c3cefe401586b0d51540e483d4097e82b23a9badeda072ac628adc8006f",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "UD-1",
+      "sheet": "6533",
+      "category": "Drainage",
+      "page": 200,
+      "title": "DETAILS OF NORMAL UNDERDRAIN AND STORM DRAIN USED AS UNDERDRAIN",
+      "fingerprint": "a4ad3dae92e6b52cfe8b5ddf3cb71c7768011d106188ad6afbd57847503d5d10",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "UD-2",
+      "sheet": "6534",
+      "category": "Drainage",
+      "page": 201,
+      "title": "NORMAL UNDERDRAIN TYPE II",
+      "fingerprint": "71e9563f8c5692b1b1d8a62cd48361182681a636b62e7dee45dc35480502405b",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "PCU-1",
+      "sheet": "6535",
+      "category": "Drainage",
+      "page": 202,
+      "title": "PRECAST UNITS (JUNCTION BOX, SS-3 INLET, & DROP INLET) (30\" CONC. ROUND PIPE & UNDER) (36\"X23\" CONC. ARCH PIPE & UNDER)",
+      "fingerprint": "3c99925329adb03e0b1a77f23e76832fee0460ec2311a707e490621ef133fe51",
+      "width": 2448.0,
+      "height": 1555.8900146484375
+    },
+    {
+      "id": "PCU-2",
+      "sheet": "6536",
+      "category": "Drainage",
+      "page": 203,
+      "title": "PRECAST UNITS (SS-2 INLET) (30\" CONC. ROUND PIPE & UNDER) (36\"X23\" CONC. ARCH PIPE & UNDER)",
+      "fingerprint": "52f10f90d862c5e6e5f59f235debbcf63e1bfd51dc06acf5a5f939057cd4e39d",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "DSP-1",
+      "sheet": "6537",
+      "category": "Drainage",
+      "page": 204,
+      "title": "INSTALLATION OF MEDIAN DRAINS WITH DOWNSPOUTS",
+      "fingerprint": "68deb232d65b1f50c82f31ec72f26b10056b80423f254e602c340eb017bf6243",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "PBC-1",
+      "sheet": "6538",
+      "category": "Drainage",
+      "page": 205,
+      "title": "PRECAST CONCRETE BOX CULVERT",
+      "fingerprint": "da83be26ec699136d832979f52ce6f7fede9100a9863b78d1203b4526ab71a2a",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "PBC-2",
+      "sheet": "6539",
+      "category": "Drainage",
+      "page": 206,
+      "title": "PRECAST CONCRETE BOX CULVERT END SECTION",
+      "fingerprint": "2f2eb2e57122ffe09f8737abc15e70ff9ef723a84eac736206cfeaa40320de16",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "HW-2100",
+      "sheet": "6571",
+      "category": "Headwalls",
+      "page": 207,
+      "title": "HEADWALLS FOR CONCRETE PIPE, 2:1 SLOPE, 0\u00b0-15\u00b0 SKEW",
+      "fingerprint": "ca053961e9e1a7e90abc67ffe1132a7f25f0c1db714f32f384bc130fffbb8819",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "HW-2130",
+      "sheet": "6572",
+      "category": "Headwalls",
+      "page": 208,
+      "title": "HEADWALLS FOR CONCRETE PIPE, 2:1 SLOPE, 30\u00b0 SKEW",
+      "fingerprint": "8f8158f2b26ba4ac6c7404bb7ec476db8692bf1308caab2c92c321e3f94c75a8",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "HW-2145",
+      "sheet": "6573",
+      "category": "Headwalls",
+      "page": 209,
+      "title": "HEADWALLS FOR CONCRETE PIPE, 2:1 SLOPE, 45\u00b0 SKEW",
+      "fingerprint": "d5d10c9ed8081333fefadb00f48d20136dd56cba8d9229a4b25722fb7e00eed1",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "HW-3100",
+      "sheet": "6574",
+      "category": "Headwalls",
+      "page": 210,
+      "title": "HEADWALLS FOR CONCRETE PIPE, 3:1 SLOPE, 0\u00b0-15\u00b0 SKEW",
+      "fingerprint": "94ae952d841542e1b63cdefeedf8f9d76f24b8bf774455e4036b44501ea46924",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "HW-3130",
+      "sheet": "6575",
+      "category": "Headwalls",
+      "page": 211,
+      "title": "HEADWALLS FOR CONCRETE PIPE, 3:1 SLOPE, 30\u00b0 SKEW",
+      "fingerprint": "2ee6b43b39ceaf8f9741ccdc069b0d22eec37194241eaddc36baf121878c364a",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "HW-3145",
+      "sheet": "6576",
+      "category": "Headwalls",
+      "page": 212,
+      "title": "HEADWALLS FOR CONCRETE PIPE, 3:1 SLOPE, 45\u00b0 SKEW",
+      "fingerprint": "22ff9fd2a447c43d78933814c578bb7a2d4d2d22b4497cfedac024fd574e53b8",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "HW-4100",
+      "sheet": "6577",
+      "category": "Headwalls",
+      "page": 213,
+      "title": "HEADWALLS FOR CONCRETE PIPE, 4:1 SLOPE, 0\u00b0-15\u00b0 SKEW",
+      "fingerprint": "4baa0ff81a32362bcdc3a7ded6ba973fd80649750afbfaf02bb928022a60a7e0",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "HW-4130",
+      "sheet": "6578",
+      "category": "Headwalls",
+      "page": 214,
+      "title": "HEADWALLS FOR CONCRETE PIPE, 4:1 SLOPE, 30\u00b0 SKEW",
+      "fingerprint": "498bbb433d7f09db2864699857f0afdad3d6d0e6f36230ea2593de8d968b95ce",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "HW-4145",
+      "sheet": "6579",
+      "category": "Headwalls",
+      "page": 215,
+      "title": "HEADWALLS FOR CONCRETE PIPE, 4:1 SLOPE, 45\u00b0 SKEW",
+      "fingerprint": "bace66418e062b1842478d63a1db85b820b7f4256302bde96f8256f4ee55f1b5",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "HWA-2100",
+      "sheet": "6580",
+      "category": "Headwalls",
+      "page": 216,
+      "title": "HEADWALLS FOR CONCRETE ARCH PIPE,2:1 SLOPE, 0\u00b0-15\u00b0 SKEW",
+      "fingerprint": "ca374deff18265d40518025d81bded68f9a3f3661e296b33b705f9c82e65fc69",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "HWA-2130",
+      "sheet": "6581",
+      "category": "Headwalls",
+      "page": 217,
+      "title": "HEADWALLS FOR CONCRETE ARCH PIPE,2:1 SLOPE,30\u00b0 SKEW",
+      "fingerprint": "39621c295d97f674155b13e69a268dc1ad453259f8f395fa2b77cf324ed517e9",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "HWA-4100",
+      "sheet": "6582",
+      "category": "Headwalls",
+      "page": 218,
+      "title": "HEADWALLS FOR CONCRETE ARCH PIPE,4:1 SLOPE, 0\u00b0-15\u00b0 SKEW",
+      "fingerprint": "844ab57c36688a76bbf68c3c0d1bef2d1498c22adc46f5546dbede52ba8a2899",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    },
+    {
+      "id": "HWA-4130",
+      "sheet": "6583",
+      "category": "Headwalls",
+      "page": 219,
+      "title": "HEADWALLS FOR CONCRETE ARCH PIPE,4:1 SLOPE,30\u00b0 SKEW",
+      "fingerprint": "b3c9868ca3aa1758ddfb21fa22a6e646548f9433b248576dafe4b37d2ecdb3cd",
+      "width": 2491.199951171875,
+      "height": 1584.0
+    }
+  ]
+}

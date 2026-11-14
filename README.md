@@ -1,1 +1,52 @@
-# Standard-Drawing-Indexer
+# Standard Drawing Indexer
+
+An offline drawing-package workspace for the supplied Mississippi DOT Roadway Design standard drawings.
+
+## Run
+
+Open **dist/Standard Drawing Indexer.html** in desktop **Google Chrome or Microsoft Edge**. The HTML contains the complete drawing library, application, PDF engine, and fonts. It needs no installation, local server, or internet access. You can copy that single file to another computer.
+
+1. Search by working number, sheet number, or title; optionally filter by category.
+2. Click a drawing to preview it; check its box to include it. Multipart drawings offer **Select complete set** beneath the preview.
+3. Arrange selected sheets using drag-and-drop or the up/down buttons.
+4. Choose **Export combined PDF** and select its filename and location in the system dialog.
+5. Use **Save**, **Save as**, and **Open project** for `.sdi-project.json` project files. These are small selection files, not copies of the PDFs.
+
+The bundled library is a fixed snapshot of the supplied 220-page PDF: 217 drawing sheets plus an excluded cover and two index pages. Drawing issue and revision dates vary. Verify applicable agency requirements independently. This version has no update checker.
+
+## Build from source
+
+Requires Node.js 22.13+ and Python 3.10+ with the pinned catalog dependency:
+
+```sh
+npm ci
+python3 -m pip install -r requirements-build.txt
+npm run build
+```
+
+The output is `dist/Standard Drawing Indexer.html` (about 57 MB). Build output and test PDFs are ignored by Git; the original source PDF and generated catalog are versioned. Third-party notices are embedded in the app's **Library & help** dialog and copied into `dist`.
+
+## Checks
+
+```sh
+npm test
+npx playwright install chromium
+npm run test:browser
+python3 scripts/verify-export.py
+```
+
+The browser suite opens the final HTML using `file://` with networking disabled. It exercises selection, groups, ordering, project validation and migration, canceled dialogs, failed writes, and all-sheet export. Its file dialogs are stubbed to automate file writes and failure cases; native dialogs require an additional interactive check. `EDGE_PATH` can select an installed Edge executable for the same suite.
+
+`verify-export.py` checks every exported drawing against the source, including dimensions, rotation, extracted text, and rendered pixels. Browser-test PDFs and screenshots are written under `test-results/` and `.impeccable/review/`.
+
+## Project compatibility
+
+Projects use schema version 1 and store a project name, source-library SHA-256, custom-order flag, and ordered sheet identifiers, titles, sheet numbers, and content fingerprints. Opening against another library retains unchanged sheets, flags revised drawings for explicit acceptance, and blocks export until missing drawings are replaced or removed. Opening invalid files leaves the current project intact.
+
+Sheet fingerprints combine normalized text and rendered RGB pixels using the pinned PyMuPDF version. They conservatively detect visual/text changes; keep that fingerprint method stable when preparing future libraries. Projects do not preserve old PDF pages: retain the corresponding HTML for archival reproduction.
+
+## Source catalog
+
+`scripts/catalog.py` extracts index titles and categories, checks each working number against the actual drawing, and maps pages using PDF page labels. It fixes three broken bookmark destinations and the source bookmark typo `TW-1L` → `RW-1L`, without changing the source drawings. Only explicitly numbered multipart sets are grouped; similar drawing names do not imply a required set.
+
+Saving is explicit. The app requests unsaved-change warnings before New/Open and when closing where the browser permits; it has no autosave or crash recovery. System file access can also be restricted by an organization's browser policies.
