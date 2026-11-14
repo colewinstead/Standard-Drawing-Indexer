@@ -50,3 +50,11 @@ Sheet fingerprints combine normalized text and rendered RGB pixels using the pin
 `scripts/catalog.py` extracts index titles and categories, checks each working number against the actual drawing, and maps pages using PDF page labels. It fixes three broken bookmark destinations and the source bookmark typo `TW-1L` → `RW-1L`, without changing the source drawings. Only explicitly numbered multipart sets are grouped; similar drawing names do not imply a required set.
 
 Saving is explicit. The app requests unsaved-change warnings before New/Open and when closing where the browser permits; it has no autosave or crash recovery. System file access can also be restricted by an organization's browser policies.
+
+## Automated releases
+
+Code, drawing-library, dependency, test, or release-workflow changes pushed to `main` (including merged pull requests) trigger `.github/workflows/release.yml`. Documentation-only changes do not create a release. You can also run **Build and release** manually from GitHub Actions on `main`.
+
+Each run builds the HTML, checks the committed catalog for unexpected changes, runs project and offline browser tests, and compares all exported drawing pages with the source before publishing. A failed check prevents publication. Releases contain the standalone HTML, third-party notices, and SHA-256 checksums. Browser screenshots are retained as Actions artifacts for 14 days.
+
+Tags use the package version plus the workflow run number, for example `v1.0.0+build.1`; rerunning a workflow updates that run’s release instead of creating a duplicate. The release targets the exact tested commit. Only a run for the current `main` commit is marked Latest, preventing a slower older build from superseding a newer one. No additional repository secret is required.
