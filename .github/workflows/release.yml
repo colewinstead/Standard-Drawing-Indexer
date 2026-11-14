@@ -51,8 +51,9 @@ jobs:
           python scripts/verify-export.py
       - name: Prepare release files
         run: |
+          mv 'dist/Standard Drawing Indexer.html' dist/Standard.Drawing.Indexer.html
           cd dist
-          sha256sum 'Standard Drawing Indexer.html' THIRD-PARTY-NOTICES.txt > SHA256SUMS.txt
+          sha256sum Standard.Drawing.Indexer.html THIRD-PARTY-NOTICES.txt > SHA256SUMS.txt
       - name: Upload verified release files
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
